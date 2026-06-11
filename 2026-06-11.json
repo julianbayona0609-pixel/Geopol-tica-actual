@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-11",
+  "conclusion": "**Impacto Macro:** Los mercados globales inician la jornada con cautela tras las recientes declaraciones de la FED sobre mantener las tasas estables. Esto ha fortalecido levemente el dólar, presionando a las materias primas como el oro.\n\n**Geopolítica:** Las tensiones comerciales en la región Asia-Pacífico han generado un movimiento de capital hacia activos refugio, beneficiando a ciertos ETFs defensivos.\n\n**Recomendación:** Se sugiere prudencia en activos de alto riesgo y un rebalanceo hacia metales preciosos si la volatilidad persiste durante la semana.",
+  "news": [
+    {
+      "id": "1",
+      "title": "La Reserva Federal decide mantener las tasas sin cambios por tercer mes consecutivo",
+      "summary": "El banco central de EE.UU. anunció que no realizará recortes de tasas hasta que la inflación muestre señales claras de acercarse al objetivo del 2%.",
+      "source": "Bloomberg",
+      "time": "08:30 AM",
+      "url": "#",
+      "category": "Macroeconomía",
+      "impact": "neutral"
+    },
+    {
+      "id": "2",
+      "title": "El Oro experimenta un repunte tras el aumento de tensiones comerciales",
+      "summary": "Los inversores buscan refugio en metales preciosos debido a la incertidumbre sobre los nuevos aranceles propuestos para el sector tecnológico asiático.",
+      "source": "Reuters",
+      "time": "10:15 AM",
+      "url": "#",
+      "category": "Metales Preciosos",
+      "impact": "positive"
+    },
+    {
+      "id": "3",
+      "title": "Índices tecnológicos sufren fuertes caídas en la apertura",
+      "summary": "El NASDAQ abre a la baja liderado por caídas en empresas de semiconductores ante preocupaciones por la cadena de suministro.",
+      "source": "Yahoo Finance",
+      "time": "09:45 AM",
+      "url": "#",
+      "category": "Acciones",
+      "impact": "negative"
+    }
+  ]
+}
