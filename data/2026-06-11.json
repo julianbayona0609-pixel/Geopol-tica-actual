@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-11",
+  "conclusion": "Hubo un error al generar el análisis del mercado para el día de hoy.",
+  "news": [
+    {
+      "id": "dominion-energy-inc-d-poised-134219798.html",
+      "title": "Dominion Energy (D) is Poised to Benefit from Data Center Expansion",
+      "summary": "Dominion Energy (D) is Poised to Benefit from Data Center Expansion...",
+      "source": "Yahoo Finance",
+      "time": "09:54 PM",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/dominion-energy-inc-d-poised-134219798.html",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "0dte-covered-call-etf-newest-134504682.html",
+      "title": "The 0DTE Covered Call ETF Is the Newest Wall Street Income Invention and These Two Pay Investors Like Clockwork Every Friday",
+      "summary": "The 0DTE Covered Call ETF Is the Newest Wall Street Income Invention and These Two Pay Investors Like Clockwork Every Friday...",
+      "source": "Yahoo Finance",
+      "time": "09:54 PM",
+      "url": "https://finance.yahoo.com/markets/options/articles/0dte-covered-call-etf-newest-134504682.html",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "intel-joining-hands-hitachi-bring-134502622.html",
+      "title": "Intel Is Joining Hands With Hitachi to Bring Physical AI to Life. It Needs to Bring the INTC Stock Valuation Down, Too.",
+      "summary": "Intel Is Joining Hands With Hitachi to Bring Physical AI to Life. It Needs to Bring the INTC Stock Valuation Down, Too....",
+      "source": "Yahoo Finance",
+      "time": "09:54 PM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joining-hands-hitachi-bring-134502622.html",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "warren-buffetts-favorite-stock-market-indicator-is-screaming-sell-134201478.html",
+      "title": "Warren Buffett's favorite stock market indicator is screaming sell",
+      "summary": "Warren Buffett's favorite stock market indicator is screaming sell...",
+      "source": "Yahoo Finance",
+      "time": "09:54 PM",
+      "url": "https://finance.yahoo.com/markets/article/warren-buffetts-favorite-stock-market-indicator-is-screaming-sell-134201478.html",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "london-company-income-equity-strategy-134831007.html",
+      "title": "London Company Income Equity Strategy Added Berkshire Hathaway (BRK-B) Over Buyback Resumption",
+      "summary": "London Company Income Equity Strategy Added Berkshire Hathaway (BRK-B) Over Buyback Resumption...",
+      "source": "Yahoo Finance",
+      "time": "09:54 PM",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/london-company-income-equity-strategy-134831007.html",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/us-foods-wins-167m-navy-food-contract-through-2027-93CH-4738496",
+      "title": "U.S. Foods wins $167M Navy food contract through 2027",
+      "summary": "U.S. Foods wins $167M Navy food contract through 2027...",
+      "source": "Investing (Equities)",
+      "time": "09:54 PM",
+      "url": "https://www.investing.com/news/stock-market-news/us-foods-wins-167m-navy-food-contract-through-2027-93CH-4738496",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/adobe-raises-annual-revenue-forecast-cfo-to-exit-4738292",
+      "title": "Adobe raises annual forecasts, CFO exit fans uncertainty over growth strategy",
+      "summary": "Adobe raises annual forecasts, CFO exit fans uncertainty over growth strategy...",
+      "source": "Investing (Equities)",
+      "time": "09:54 PM",
+      "url": "https://www.investing.com/news/stock-market-news/adobe-raises-annual-revenue-forecast-cfo-to-exit-4738292",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/general-motors-wins-143-million-defense-contract-93CH-4738479",
+      "title": "General Motors wins $143 million defense contract",
+      "summary": "General Motors wins $143 million defense contract...",
+      "source": "Investing (Equities)",
+      "time": "09:54 PM",
+      "url": "https://www.investing.com/news/stock-market-news/general-motors-wins-143-million-defense-contract-93CH-4738479",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-514-million-contract-modification-93CH-4738476",
+      "title": "Lockheed Martin wins $514 million contract modification",
+      "summary": "Lockheed Martin wins $514 million contract modification...",
+      "source": "Investing (Equities)",
+      "time": "09:54 PM",
+      "url": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-514-million-contract-modification-93CH-4738476",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/john-delaneys-forbright-valued-at-870-million-after-shares-fall-in-debut-4738027",
+      "title": "John Delaney’s Forbright valued at roughly $900 million in Nasdaq debut",
+      "summary": "John Delaney’s Forbright valued at roughly $900 million in Nasdaq debut...",
+      "source": "Investing (Equities)",
+      "time": "09:54 PM",
+      "url": "https://www.investing.com/news/stock-market-news/john-delaneys-forbright-valued-at-870-million-after-shares-fall-in-debut-4738027",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
