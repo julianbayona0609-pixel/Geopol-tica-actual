@@ -3,11 +3,41 @@
   "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
   "news": [
     {
+      "id": "https://es.investing.com/news/stock-market-news/el-debut-de-spacex-hunde-las-acciones-de-empresas-rivales-del-sector-espacial-93CH-3702324",
+      "title": "El debut de SpaceX hunde las acciones de empresas rivales del sector espacial",
+      "summary": "El debut de SpaceX hunde las acciones de empresas rivales del sector espacial...",
+      "source": "Investing (ES)",
+      "time": "05:35 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-debut-de-spacex-hunde-las-acciones-de-empresas-rivales-del-sector-espacial-93CH-3702324",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/beowulf-mining-asegura-una-inversion-de-37-millones-de-libras-de-bacchus-capital-93CH-3702320",
+      "title": "Beowulf Mining asegura una inversión de 3,7 millones de libras de Bacchus Capital",
+      "summary": "Beowulf Mining asegura una inversión de 3,7 millones de libras de Bacchus Capital...",
+      "source": "Investing (ES)",
+      "time": "05:35 PM",
+      "url": "https://es.investing.com/news/stock-market-news/beowulf-mining-asegura-una-inversion-de-37-millones-de-libras-de-bacchus-capital-93CH-3702320",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/macquarie-ve-tendencias-divergentes-en-ve-en-eeuu-europa-y-china-93CH-3702319",
+      "title": "Macquarie ve tendencias divergentes en VE en EE.UU., Europa y China",
+      "summary": "Macquarie ve tendencias divergentes en VE en EE.UU., Europa y China...",
+      "source": "Investing (ES)",
+      "time": "05:35 PM",
+      "url": "https://es.investing.com/news/stock-market-news/macquarie-ve-tendencias-divergentes-en-ve-en-eeuu-europa-y-china-93CH-3702319",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
       "id": "https://es.investing.com/news/stock-market-news/google-apelara-el-fallo-aleman-sobre-la-responsabilidad-de-ai-overviews-93CH-3702309",
       "title": "Google apelará el fallo alemán sobre la responsabilidad de AI Overviews",
       "summary": "Google apelará el fallo alemán sobre la responsabilidad de AI Overviews...",
       "source": "Investing (ES)",
-      "time": "05:29 PM",
+      "time": "05:35 PM",
       "url": "https://es.investing.com/news/stock-market-news/google-apelara-el-fallo-aleman-sobre-la-responsabilidad-de-ai-overviews-93CH-3702309",
       "category": "Mercados",
       "impact": "neutral"
@@ -17,38 +47,8 @@
       "title": "Truist: bancos de EE.UU. son cautelosamente optimistas sobre el crecimiento de depósitos",
       "summary": "Truist: bancos de EE.UU. son cautelosamente optimistas sobre el crecimiento de depósitos...",
       "source": "Investing (ES)",
-      "time": "05:29 PM",
+      "time": "05:35 PM",
       "url": "https://es.investing.com/news/stock-market-news/truist-bancos-de-eeuu-son-cautelosamente-optimistas-sobre-el-crecimiento-de-depositos-93CH-3702301",
-      "category": "Mercados",
-      "impact": "neutral"
-    },
-    {
-      "id": "https://es.investing.com/news/stock-market-news/nvidia-desarrolla-chip-de-radio-6g-mientras-los-centros-de-datos-siguen-su-curso-93CH-3702296",
-      "title": "Nvidia desarrolla chip de radio 6G mientras los centros de datos siguen su curso",
-      "summary": "Nvidia desarrolla chip de radio 6G mientras los centros de datos siguen su curso...",
-      "source": "Investing (ES)",
-      "time": "05:29 PM",
-      "url": "https://es.investing.com/news/stock-market-news/nvidia-desarrolla-chip-de-radio-6g-mientras-los-centros-de-datos-siguen-su-curso-93CH-3702296",
-      "category": "Mercados",
-      "impact": "neutral"
-    },
-    {
-      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-intuit-93CH-3702291",
-      "title": "¿Por qué cae hoy la acción de Intuit?",
-      "summary": "¿Por qué cae hoy la acción de Intuit?...",
-      "source": "Investing (ES)",
-      "time": "05:29 PM",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-intuit-93CH-3702291",
-      "category": "Mercados",
-      "impact": "neutral"
-    },
-    {
-      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-vital-farms-93CH-3702290",
-      "title": "¿Por qué cae hoy la acción de Vital Farms?",
-      "summary": "¿Por qué cae hoy la acción de Vital Farms?...",
-      "source": "Investing (ES)",
-      "time": "05:29 PM",
-      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-vital-farms-93CH-3702290",
       "category": "Mercados",
       "impact": "neutral"
     }
