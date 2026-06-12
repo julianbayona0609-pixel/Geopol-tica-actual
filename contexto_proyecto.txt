@@ -1,0 +1,30 @@
+========================================================================
+CONTEXTO DEL PROYECTO: DASHBOARD "GEOPOLÍTICA ACTUAL"
+========================================================================
+
+1. OBJETIVO DEL PROYECTO:
+Desarrollar una página web similar a la sección de noticias de XTB, que muestre noticias de geopolítica y economía relevantes para inversiones (Acciones, ETFs, metales preciosos). 
+
+2. ARQUITECTURA E INFRAESTRUCTURA:
+- Frontend: HTML, CSS y React (mediante CDN, sin Node.js/NPM por limitaciones del PC).
+- Hosting: GitHub Pages (URL: https://julianbayona0609-pixel.github.io/Geopol-tica-actual/)
+- Backend / Automatización: GitHub Actions (Daily News Aggregator) configurado para ejecutarse todos los días a las 22:00 UTC.
+- Base de datos: Archivos JSON estáticos creados por día dentro de la carpeta `data/`.
+
+3. CARACTERÍSTICAS PRINCIPALES:
+- Diseño oscuro (Dark Theme) con diseño UI moderno.
+- Integración de API de Google Gemini (gemini-1.5-flash) para leer titulares diarios y redactar una conclusión macroeconómica en español.
+- Feeds RSS en español: Investing.com España y El Economista.
+- Widget de TradingView (Symbol Overview): Gráfico multi-pestaña para visualizar S&P 500, Nasdaq, Oro, Plata, Petróleo y ETFs (SPY, QQQ, GLD).
+- Calendario histórico: Permite revisar el historial de noticias hasta con 3 meses de antigüedad.
+
+4. ESTADO ACTUAL (AL FINALIZAR LA SESIÓN):
+- La página web ya está desplegada y funcional en GitHub Pages.
+- El flujo de Actions de GitHub funciona y compila la página.
+- El usuario reportó un error con la conclusión de Gemini y que las noticias salían en inglés.
+- SE SOLUCIONÓ LOCALMENTE: Se actualizó `fetch_news.py` para usar RSS en español, forzar a la IA a responder en español, y mostrar en pantalla el mensaje de error de Gemini si algo falla. Se actualizó `app.jsx` para tener un gráfico general del mercado.
+
+5. PRÓXIMOS PASOS (PARA MAÑANA):
+- Confirmar si la subida de `fetch_news.py` a GitHub y la nueva ejecución del "Daily News Aggregator" corrigió el problema de las noticias en español.
+- Revisar el mensaje que arroja Gemini (si da error, depurar la API key o permisos).
+- Revisar si el gráfico multi-pestaña de TradingView se actualizó correctamente en la web.

@@ -4,10 +4,10 @@ import datetime
 import feedparser
 import google.generativeai as genai
 
-# Configuración de Feeds RSS (Fuentes financieras)
+# Configuración de Feeds RSS (Fuentes financieras en Español)
 RSS_FEEDS = {
-    "Yahoo Finance": "https://finance.yahoo.com/news/rssindex",
-    "Investing (Equities)": "https://www.investing.com/rss/news_25.rss"
+    "Investing (ES)": "https://es.investing.com/rss/news_25.rss",
+    "El Economista": "https://www.eleconomista.es/rss/rss-mercados.php"
 }
 
 def fetch_rss_news():
@@ -50,7 +50,7 @@ def generate_ai_conclusion(news_items):
             
         prompt = f"""
         Eres un analista financiero experto. Revisa los siguientes titulares de noticias de hoy.
-        Genera una conclusión concisa (máximo 3 párrafos cortos) enfocada en cómo estas noticias 
+        Genera una conclusión concisa en ESPAÑOL (máximo 3 párrafos cortos) enfocada en cómo estas noticias 
         afectan la geopolítica, la macroeconomía, y el mercado de valores (Acciones, ETFs, metales preciosos).
         Utiliza un tono profesional y objetivo. Formatea el texto con negritas para destacar los conceptos clave.
         
@@ -62,7 +62,7 @@ def generate_ai_conclusion(news_items):
         return response.text
     except Exception as e:
         print(f"Error al generar conclusión con IA: {e}")
-        return "Hubo un error al generar el análisis del mercado para el día de hoy."
+        return f"**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: {str(e)}"
 
 def main():
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
