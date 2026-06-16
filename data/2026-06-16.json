@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-16",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-mejora-la-calificacion-de-scotts-miraclegro-por-mejores-metricas-93CH-3706331",
+      "title": "S&P mejora la calificación de Scotts Miracle-Gro por mejores métricas",
+      "summary": "S&P mejora la calificación de Scotts Miracle-Gro por mejores métricas...",
+      "source": "Investing (ES)",
+      "time": "11:23 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-mejora-la-calificacion-de-scotts-miraclegro-por-mejores-metricas-93CH-3706331",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-mcgraw-hill-suben-tras-compra-de-acciones-por-directivo-93CH-3706325",
+      "title": "Las acciones de McGraw Hill suben tras compra de acciones por directivo",
+      "summary": "Las acciones de McGraw Hill suben tras compra de acciones por directivo...",
+      "source": "Investing (ES)",
+      "time": "11:23 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-mcgraw-hill-suben-tras-compra-de-acciones-por-directivo-93CH-3706325",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/exxon-firma-un-acuerdo-de-gnl-para-ayudar-a-sudafrica-a-reducir-el-uso-del-carbon-93CH-3706317",
+      "title": "Exxon firma un acuerdo de GNL para ayudar a Sudáfrica a reducir el uso del carbón",
+      "summary": "Exxon firma un acuerdo de GNL para ayudar a Sudáfrica a reducir el uso del carbón...",
+      "source": "Investing (ES)",
+      "time": "11:23 PM",
+      "url": "https://es.investing.com/news/stock-market-news/exxon-firma-un-acuerdo-de-gnl-para-ayudar-a-sudafrica-a-reducir-el-uso-del-carbon-93CH-3706317",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/csquare-presenta-su-opv-en-la-bolsa-de-nueva-york-bajo-el-simbolo-csqr-3706299",
+      "title": "Csquare presenta su OPV en la Bolsa de Nueva York bajo el símbolo CSQR",
+      "summary": "Csquare presenta su OPV en la Bolsa de Nueva York bajo el símbolo CSQR...",
+      "source": "Investing (ES)",
+      "time": "11:23 PM",
+      "url": "https://es.investing.com/news/stock-market-news/csquare-presenta-su-opv-en-la-bolsa-de-nueva-york-bajo-el-simbolo-csqr-3706299",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/mcdermott-continuo-trabajando-en-el-proyecto-de-gas-de-qatar-durante-la-guerra-con-iran-93CH-3706258",
+      "title": "McDermott continuó trabajando en el proyecto de gas de Qatar durante la guerra con Irán",
+      "summary": "McDermott continuó trabajando en el proyecto de gas de Qatar durante la guerra con Irán...",
+      "source": "Investing (ES)",
+      "time": "11:23 PM",
+      "url": "https://es.investing.com/news/stock-market-news/mcdermott-continuo-trabajando-en-el-proyecto-de-gas-de-qatar-durante-la-guerra-con-iran-93CH-3706258",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
