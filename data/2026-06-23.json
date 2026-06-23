@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-23",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/ariel-emanuel-negocia-la-compra-del-grupo-teatral-atg-por-6000-millones-de-dolares-93CH-3713837",
+      "title": "Ariel Emanuel negocia la compra del grupo teatral ATG por 6.000 millones de dólares",
+      "summary": "Ariel Emanuel negocia la compra del grupo teatral ATG por 6.000 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:08 PM",
+      "url": "https://es.investing.com/news/stock-market-news/ariel-emanuel-negocia-la-compra-del-grupo-teatral-atg-por-6000-millones-de-dolares-93CH-3713837",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-una-modificacion-de-contrato-de-8400-millones-de-dolares-para-misiles-93CH-3713835",
+      "title": "Lockheed Martin gana una modificación de contrato de 8.400 millones de dólares para misiles",
+      "summary": "Lockheed Martin gana una modificación de contrato de 8.400 millones de dólares para misiles...",
+      "source": "Investing (ES)",
+      "time": "11:08 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-una-modificacion-de-contrato-de-8400-millones-de-dolares-para-misiles-93CH-3713835",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/boeing-gana-un-contrato-de-2000-millones-de-dolares-del-departamento-de-guerra-93CH-3713833",
+      "title": "Boeing gana un contrato de 2.000 millones de dólares del Departamento de Guerra",
+      "summary": "Boeing gana un contrato de 2.000 millones de dólares del Departamento de Guerra...",
+      "source": "Investing (ES)",
+      "time": "11:08 PM",
+      "url": "https://es.investing.com/news/stock-market-news/boeing-gana-un-contrato-de-2000-millones-de-dolares-del-departamento-de-guerra-93CH-3713833",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/honeywell-aerospace-se-unira-al-sp-500-y-al-sp-100-el-29-de-junio-3713829",
+      "title": "Honeywell Aerospace se unirá al S&P 500 y al S&P 100 el 29 de junio",
+      "summary": "Honeywell Aerospace se unirá al S&P 500 y al S&P 100 el 29 de junio...",
+      "source": "Investing (ES)",
+      "time": "11:08 PM",
+      "url": "https://es.investing.com/news/stock-market-news/honeywell-aerospace-se-unira-al-sp-500-y-al-sp-100-el-29-de-junio-3713829",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/alphabet-reemplazara-a-verizon-en-el-dow-jones-industrial-average-3713804",
+      "title": "Alphabet reemplazará a Verizon en el Dow Jones Industrial Average",
+      "summary": "Alphabet reemplazará a Verizon en el Dow Jones Industrial Average...",
+      "source": "Investing (ES)",
+      "time": "11:08 PM",
+      "url": "https://es.investing.com/news/stock-market-news/alphabet-reemplazara-a-verizon-en-el-dow-jones-industrial-average-3713804",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
