@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-25",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-global-mejora-la-calificacion-de-life-time-por-su-solido-rendimiento-93CH-3717516",
+      "title": "S&P Global mejora la calificación de Life Time por su sólido rendimiento",
+      "summary": "S&P Global mejora la calificación de Life Time por su sólido rendimiento...",
+      "source": "Investing (ES)",
+      "time": "11:17 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-global-mejora-la-calificacion-de-life-time-por-su-solido-rendimiento-93CH-3717516",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-calificacion-de-ingersoll-rand-por-sus-solidos-margenes-93CH-3717509",
+      "title": "Moody’s mejora la calificación de Ingersoll Rand por sus sólidos márgenes",
+      "summary": "Moody’s mejora la calificación de Ingersoll Rand por sus sólidos márgenes...",
+      "source": "Investing (ES)",
+      "time": "11:17 PM",
+      "url": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-calificacion-de-ingersoll-rand-por-sus-solidos-margenes-93CH-3717509",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/reformation-solicita-salida-a-bolsa-en-nyse-para-ampliar-su-red-de-tiendas-93CH-3717502",
+      "title": "Reformation solicita salida a bolsa en NYSE para ampliar su red de tiendas",
+      "summary": "Reformation solicita salida a bolsa en NYSE para ampliar su red de tiendas...",
+      "source": "Investing (ES)",
+      "time": "11:17 PM",
+      "url": "https://es.investing.com/news/stock-market-news/reformation-solicita-salida-a-bolsa-en-nyse-para-ampliar-su-red-de-tiendas-93CH-3717502",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-i80-gold-suben-tras-resultados-de-perforacion-en-nevada-93CH-3717493",
+      "title": "Las acciones de i-80 Gold suben tras resultados de perforación en Nevada",
+      "summary": "Las acciones de i-80 Gold suben tras resultados de perforación en Nevada...",
+      "source": "Investing (ES)",
+      "time": "11:17 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-i80-gold-suben-tras-resultados-de-perforacion-en-nevada-93CH-3717493",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/calian-adquirira-galaxy-broadband-para-reforzar-su-expertise-satelital-93CH-3717486",
+      "title": "Calian adquirirá Galaxy Broadband para reforzar su expertise satelital",
+      "summary": "Calian adquirirá Galaxy Broadband para reforzar su expertise satelital...",
+      "source": "Investing (ES)",
+      "time": "11:17 PM",
+      "url": "https://es.investing.com/news/stock-market-news/calian-adquirira-galaxy-broadband-para-reforzar-su-expertise-satelital-93CH-3717486",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
