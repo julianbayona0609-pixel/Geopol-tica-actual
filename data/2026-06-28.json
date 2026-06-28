@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-28",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-renovacion-de-ia-de-apple-podria-impulsar-un-nuevo-ciclo-de-actualizaciones-3719473",
+      "title": "La renovación de IA de Apple podría impulsar un nuevo ciclo de actualizaciones",
+      "summary": "La renovación de IA de Apple podría impulsar un nuevo ciclo de actualizaciones...",
+      "source": "Investing (ES)",
+      "time": "11:01 PM",
+      "url": "https://es.investing.com/news/stock-market-news/la-renovacion-de-ia-de-apple-podria-impulsar-un-nuevo-ciclo-de-actualizaciones-3719473",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/volkswagen-planea-poner-fin-a-su-asociacion-de-conduccion-automatizada-con-bosch-93CH-3719467",
+      "title": "Volkswagen planea poner fin a su asociación de conducción automatizada con Bosch",
+      "summary": "Volkswagen planea poner fin a su asociación de conducción automatizada con Bosch...",
+      "source": "Investing (ES)",
+      "time": "11:01 PM",
+      "url": "https://es.investing.com/news/stock-market-news/volkswagen-planea-poner-fin-a-su-asociacion-de-conduccion-automatizada-con-bosch-93CH-3719467",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/morningstar-recorta-un-2-su-estimacion-de-valor-justo-de-reece-a-a1030-93CH-3719466",
+      "title": "Morningstar recorta un 2% su estimación de valor justo de Reece a A$10,30",
+      "summary": "Morningstar recorta un 2% su estimación de valor justo de Reece a A$10,30...",
+      "source": "Investing (ES)",
+      "time": "11:01 PM",
+      "url": "https://es.investing.com/news/stock-market-news/morningstar-recorta-un-2-su-estimacion-de-valor-justo-de-reece-a-a1030-93CH-3719466",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/eeuu-seguira-siendo-la-superpotencia-mundial-pese-a-los-desafios-3719464",
+      "title": "EE.UU. seguirá siendo la superpotencia mundial pese a los desafíos",
+      "summary": "EE.UU. seguirá siendo la superpotencia mundial pese a los desafíos...",
+      "source": "Investing (ES)",
+      "time": "11:01 PM",
+      "url": "https://es.investing.com/news/stock-market-news/eeuu-seguira-siendo-la-superpotencia-mundial-pese-a-los-desafios-3719464",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/williams-cos-se-acerca-a-un-acuerdo-de-5500-millones-de-dolares-con-momentum-midstream-3719461",
+      "title": "Williams Cos. se acerca a un acuerdo de 5.500 millones de dólares con Momentum Midstream",
+      "summary": "Williams Cos. se acerca a un acuerdo de 5.500 millones de dólares con Momentum Midstream...",
+      "source": "Investing (ES)",
+      "time": "11:01 PM",
+      "url": "https://es.investing.com/news/stock-market-news/williams-cos-se-acerca-a-un-acuerdo-de-5500-millones-de-dolares-con-momentum-midstream-3719461",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
