@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-29",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/koei-group-solicita-salida-a-bolsa-en-el-nasdaq-con-roth-capital-partners-93CH-3721538",
+      "title": "Koei Group solicita salida a bolsa en el Nasdaq con Roth Capital Partners",
+      "summary": "Koei Group solicita salida a bolsa en el Nasdaq con Roth Capital Partners...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/koei-group-solicita-salida-a-bolsa-en-el-nasdaq-con-roth-capital-partners-93CH-3721538",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/td-cowen-elige-su-mejor-accion-farmaceutica-para-2026-93CH-3721536",
+      "title": "TD Cowen elige su mejor acción farmacéutica para 2026",
+      "summary": "TD Cowen elige su mejor acción farmacéutica para 2026...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/td-cowen-elige-su-mejor-accion-farmaceutica-para-2026-93CH-3721536",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/seeqc-presenta-su-solicitud-de-opi-para-avanzar-en-chips-de-computacion-cuantica-93CH-3721530",
+      "title": "SeeQC presenta su solicitud de OPI para avanzar en chips de computación cuántica",
+      "summary": "SeeQC presenta su solicitud de OPI para avanzar en chips de computación cuántica...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/seeqc-presenta-su-solicitud-de-opi-para-avanzar-en-chips-de-computacion-cuantica-93CH-3721530",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-forgent-power-solutions-caen-tras-anuncio-de-oferta-publica-93CH-3721523",
+      "title": "Las acciones de Forgent Power Solutions caen tras anuncio de oferta pública",
+      "summary": "Las acciones de Forgent Power Solutions caen tras anuncio de oferta pública...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-forgent-power-solutions-caen-tras-anuncio-de-oferta-publica-93CH-3721523",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-abivax-se-disparan-tras-datos-de-fase-3-en-colitis-ulcerosa-93CH-3721516",
+      "title": "Las acciones de Abivax se disparan tras datos de fase 3 en colitis ulcerosa",
+      "summary": "Las acciones de Abivax se disparan tras datos de fase 3 en colitis ulcerosa...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-abivax-se-disparan-tras-datos-de-fase-3-en-colitis-ulcerosa-93CH-3721516",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
