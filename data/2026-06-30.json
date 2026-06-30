@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-30",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/kura-sushi-apunta-a-un-crecimiento-anual-del-20-en-tiendas-en-eeuu-93CH-3723563",
+      "title": "Kura Sushi apunta a un crecimiento anual del 20% en tiendas en EE.UU.",
+      "summary": "Kura Sushi apunta a un crecimiento anual del 20% en tiendas en EE.UU....",
+      "source": "Investing (ES)",
+      "time": "11:12 PM",
+      "url": "https://es.investing.com/news/stock-market-news/kura-sushi-apunta-a-un-crecimiento-anual-del-20-en-tiendas-en-eeuu-93CH-3723563",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/boeing-gana-un-contrato-de-misiles-por-495-millones-de-dolares-93CH-3723541",
+      "title": "Boeing gana un contrato de misiles por 49,5 millones de dólares",
+      "summary": "Boeing gana un contrato de misiles por 49,5 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:12 PM",
+      "url": "https://es.investing.com/news/stock-market-news/boeing-gana-un-contrato-de-misiles-por-495-millones-de-dolares-93CH-3723541",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/northrop-grumman-obtiene-contratos-de-defensa-por-68-millones-de-dolares-93CH-3723539",
+      "title": "Northrop Grumman obtiene contratos de defensa por 68 millones de dólares",
+      "summary": "Northrop Grumman obtiene contratos de defensa por 68 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:12 PM",
+      "url": "https://es.investing.com/news/stock-market-news/northrop-grumman-obtiene-contratos-de-defensa-por-68-millones-de-dolares-93CH-3723539",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-un-contrato-de-radar-por-3100-millones-de-dolares-93CH-3723538",
+      "title": "Lockheed Martin gana un contrato de radar por 3.100 millones de dólares",
+      "summary": "Lockheed Martin gana un contrato de radar por 3.100 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:12 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-un-contrato-de-radar-por-3100-millones-de-dolares-93CH-3723538",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/allison-transmission-se-unira-al-sp-midcap-400-goodyear-pasara-al-sp-smallcap-600-93CH-3723534",
+      "title": "Allison Transmission se unirá al S&P MidCap 400; Goodyear pasará al S&P SmallCap 600",
+      "summary": "Allison Transmission se unirá al S&P MidCap 400; Goodyear pasará al S&P SmallCap 600...",
+      "source": "Investing (ES)",
+      "time": "11:12 PM",
+      "url": "https://es.investing.com/news/stock-market-news/allison-transmission-se-unira-al-sp-midcap-400-goodyear-pasara-al-sp-smallcap-600-93CH-3723534",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
