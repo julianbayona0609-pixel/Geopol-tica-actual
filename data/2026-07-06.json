@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-06",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-obtiene-contratos-de-defensa-por-mas-de-203-millones-de-dolares-93CH-3730032",
+      "title": "Lockheed Martin obtiene contratos de defensa por más de 203 millones de dólares",
+      "summary": "Lockheed Martin obtiene contratos de defensa por más de 203 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:06 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-obtiene-contratos-de-defensa-por-mas-de-203-millones-de-dolares-93CH-3730032",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/l3harris-gana-un-contrato-de-defensa-de-4996-millones-de-dolares-93CH-3730030",
+      "title": "L3Harris gana un contrato de defensa de 499,6 millones de dólares",
+      "summary": "L3Harris gana un contrato de defensa de 499,6 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:06 PM",
+      "url": "https://es.investing.com/news/stock-market-news/l3harris-gana-un-contrato-de-defensa-de-4996-millones-de-dolares-93CH-3730030",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/walmart-reduce-precios-en-articulos-de-verano-en-sus-tiendas-de-eeuu-93CH-3730023",
+      "title": "Walmart reduce precios en artículos de verano en sus tiendas de EE.UU.",
+      "summary": "Walmart reduce precios en artículos de verano en sus tiendas de EE.UU....",
+      "source": "Investing (ES)",
+      "time": "11:06 PM",
+      "url": "https://es.investing.com/news/stock-market-news/walmart-reduce-precios-en-articulos-de-verano-en-sus-tiendas-de-eeuu-93CH-3730023",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-crinetics-pharmaceuticals-93CH-3730004",
+      "title": "¿Por qué se dispara hoy la acción de Crinetics Pharmaceuticals?",
+      "summary": "¿Por qué se dispara hoy la acción de Crinetics Pharmaceuticals?...",
+      "source": "Investing (ES)",
+      "time": "11:06 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-crinetics-pharmaceuticals-93CH-3730004",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-aligos-therapeutics-93CH-3730000",
+      "title": "¿Por qué se dispara hoy la acción de Aligos Therapeutics?",
+      "summary": "¿Por qué se dispara hoy la acción de Aligos Therapeutics?...",
+      "source": "Investing (ES)",
+      "time": "11:06 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-aligos-therapeutics-93CH-3730000",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
