@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-08",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-cosan-a-b-por-menor-diversificacion-93CH-3734201",
+      "title": "S&P rebaja la calificación de Cosan a B+ por menor diversificación",
+      "summary": "S&P rebaja la calificación de Cosan a B+ por menor diversificación...",
+      "source": "Investing (ES)",
+      "time": "11:07 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-cosan-a-b-por-menor-diversificacion-93CH-3734201",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-century-communities-por-presiones-macroeconomicas-93CH-3734200",
+      "title": "S&P rebaja la calificación de Century Communities por presiones macroeconómicas",
+      "summary": "S&P rebaja la calificación de Century Communities por presiones macroeconómicas...",
+      "source": "Investing (ES)",
+      "time": "11:07 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-century-communities-por-presiones-macroeconomicas-93CH-3734200",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-harleydavidson-a-bb-por-margenes-93CH-3734194",
+      "title": "S&P rebaja la calificación de Harley-Davidson a BB+ por márgenes",
+      "summary": "S&P rebaja la calificación de Harley-Davidson a BB+ por márgenes...",
+      "source": "Investing (ES)",
+      "time": "11:07 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-rebaja-la-calificacion-de-harleydavidson-a-bb-por-margenes-93CH-3734194",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/leidos-obtiene-una-modificacion-de-contrato-de-misiles-por-272-millones-de-dolares-93CH-3734189",
+      "title": "Leidos obtiene una modificación de contrato de misiles por 27,2 millones de dólares",
+      "summary": "Leidos obtiene una modificación de contrato de misiles por 27,2 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:07 PM",
+      "url": "https://es.investing.com/news/stock-market-news/leidos-obtiene-una-modificacion-de-contrato-de-misiles-por-272-millones-de-dolares-93CH-3734189",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-un-contrato-del-ejercito-de-502-millones-de-dolares-para-el-apoyo-al-ah64-93CH-3734188",
+      "title": "Lockheed Martin gana un contrato del Ejército de 502 millones de dólares para el apoyo al AH-64",
+      "summary": "Lockheed Martin gana un contrato del Ejército de 502 millones de dólares para el apoyo al AH-64...",
+      "source": "Investing (ES)",
+      "time": "11:07 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-un-contrato-del-ejercito-de-502-millones-de-dolares-para-el-apoyo-al-ah64-93CH-3734188",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
