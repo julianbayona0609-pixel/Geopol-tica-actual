@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-10",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/fitch-revisa-la-perspectiva-de-moodys-por-su-solida-posicion-de-mercado-93CH-3737938",
+      "title": "Fitch revisa la perspectiva de Moody’s por su sólida posición de mercado",
+      "summary": "Fitch revisa la perspectiva de Moody’s por su sólida posición de mercado...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/fitch-revisa-la-perspectiva-de-moodys-por-su-solida-posicion-de-mercado-93CH-3737938",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/holtec-nuclear-corporation-presenta-su-solicitud-de-salida-a-bolsa-432SI-3737947",
+      "title": "Holtec Nuclear Corporation presenta su solicitud de salida a bolsa",
+      "summary": "Holtec Nuclear Corporation presenta su solicitud de salida a bolsa...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/holtec-nuclear-corporation-presenta-su-solicitud-de-salida-a-bolsa-432SI-3737947",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/fitch-revisa-perspectiva-de-blackrock-tcp-capital-por-apalancamiento-93CH-3737933",
+      "title": "Fitch revisa perspectiva de BlackRock TCP Capital por apalancamiento",
+      "summary": "Fitch revisa perspectiva de BlackRock TCP Capital por apalancamiento...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/fitch-revisa-perspectiva-de-blackrock-tcp-capital-por-apalancamiento-93CH-3737933",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/scribe-therapeutics-presenta-su-solicitud-de-opv-en-el-nasdaq-432SI-3737937",
+      "title": "Scribe Therapeutics presenta su solicitud de OPV en el Nasdaq",
+      "summary": "Scribe Therapeutics presenta su solicitud de OPV en el Nasdaq...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/scribe-therapeutics-presenta-su-solicitud-de-opv-en-el-nasdaq-432SI-3737937",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/needham-nombra-a-figure-technology-su-mejor-opcion-en-tecnologia-financiera-93CH-3737926",
+      "title": "Needham nombra a Figure Technology su mejor opción en tecnología financiera",
+      "summary": "Needham nombra a Figure Technology su mejor opción en tecnología financiera...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/needham-nombra-a-figure-technology-su-mejor-opcion-en-tecnologia-financiera-93CH-3737926",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
