@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-14",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-lionsgate-studios-suben-por-interes-de-compra-93CH-3742142",
+      "title": "Las acciones de Lionsgate Studios suben por interés de compra",
+      "summary": "Las acciones de Lionsgate Studios suben por interés de compra...",
+      "source": "Investing (ES)",
+      "time": "10:56 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-lionsgate-studios-suben-por-interes-de-compra-93CH-3742142",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/openai-entra-en-el-salon-su-altavoz-inteligente-hunde-las-acciones-de-sonos-3742120",
+      "title": "OpenAI entra en el salón: su altavoz inteligente hunde las acciones de Sonos",
+      "summary": "OpenAI entra en el salón: su altavoz inteligente hunde las acciones de Sonos...",
+      "source": "Investing (ES)",
+      "time": "10:56 PM",
+      "url": "https://es.investing.com/news/stock-market-news/openai-entra-en-el-salon-su-altavoz-inteligente-hunde-las-acciones-de-sonos-3742120",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-sindicato-de-guionistas-demanda-para-bloquear-la-fusion-paramountwarner-bros-93CH-3742089",
+      "title": "El Sindicato de Guionistas demanda para bloquear la fusión Paramount-Warner Bros.",
+      "summary": "El Sindicato de Guionistas demanda para bloquear la fusión Paramount-Warner Bros....",
+      "source": "Investing (ES)",
+      "time": "10:56 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-sindicato-de-guionistas-demanda-para-bloquear-la-fusion-paramountwarner-bros-93CH-3742089",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/stifel-prefiere-lumentum-en-el-sector-de-componentes-opticos-93CH-3742021",
+      "title": "Stifel prefiere Lumentum en el Sector de componentes ópticos",
+      "summary": "Stifel prefiere Lumentum en el Sector de componentes ópticos...",
+      "source": "Investing (ES)",
+      "time": "10:56 PM",
+      "url": "https://es.investing.com/news/stock-market-news/stifel-prefiere-lumentum-en-el-sector-de-componentes-opticos-93CH-3742021",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/celcuity-obtiene-la-aprobacion-de-la-fda-para-su-primer-farmaco-contra-el-cancer-de-mama-93CH-3742016",
+      "title": "Celcuity obtiene la aprobación de la FDA para su primer fármaco contra el cáncer de mama",
+      "summary": "Celcuity obtiene la aprobación de la FDA para su primer fármaco contra el cáncer de mama...",
+      "source": "Investing (ES)",
+      "time": "10:56 PM",
+      "url": "https://es.investing.com/news/stock-market-news/celcuity-obtiene-la-aprobacion-de-la-fda-para-su-primer-farmaco-contra-el-cancer-de-mama-93CH-3742016",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
