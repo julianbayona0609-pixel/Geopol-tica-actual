@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-15",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-vivosim-labs-93CH-3744294",
+      "title": "¿Por qué cae hoy la acción de VivoSim Labs?",
+      "summary": "¿Por qué cae hoy la acción de VivoSim Labs?...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-vivosim-labs-93CH-3744294",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/acciones-en-movimiento-fuera-de-horario-jbht-ual-asts-jbl-432SI-3744221",
+      "title": "Acciones en movimiento fuera de horario: JBHT, UAL, ASTS, JBL",
+      "summary": "Acciones en movimiento fuera de horario: JBHT, UAL, ASTS, JBL...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/acciones-en-movimiento-fuera-de-horario-jbht-ual-asts-jbl-432SI-3744221",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-semiconductores-analogicos-en-plena-recuperacion-del-sector-93CH-3744213",
+      "title": "Las mejores acciones de semiconductores analógicos en plena recuperación del sector",
+      "summary": "Las mejores acciones de semiconductores analógicos en plena recuperación del sector...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-mejores-acciones-de-semiconductores-analogicos-en-plena-recuperacion-del-sector-93CH-3744213",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-ast-spacemobile-caen-tras-plan-de-deuda-de-1000-millones-93CH-3744155",
+      "title": "Las acciones de AST SpaceMobile caen tras plan de deuda de 1.000 millones",
+      "summary": "Las acciones de AST SpaceMobile caen tras plan de deuda de 1.000 millones...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-ast-spacemobile-caen-tras-plan-de-deuda-de-1000-millones-93CH-3744155",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/piper-sandler-renueva-su-estrategia-en-seguros-y-sube-gallagher-3744132",
+      "title": "Piper Sandler renueva su estrategia en seguros y sube Gallagher",
+      "summary": "Piper Sandler renueva su estrategia en seguros y sube Gallagher...",
+      "source": "Investing (ES)",
+      "time": "10:57 PM",
+      "url": "https://es.investing.com/news/stock-market-news/piper-sandler-renueva-su-estrategia-en-seguros-y-sube-gallagher-3744132",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
