@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-17",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/stifel-elige-las-mejores-acciones-de-tecnologia-en-cadena-de-suministro-93CH-3748012",
+      "title": "Stifel elige las mejores acciones de Tecnología en cadena de suministro",
+      "summary": "Stifel elige las mejores acciones de Tecnología en cadena de suministro...",
+      "source": "Investing (ES)",
+      "time": "10:49 PM",
+      "url": "https://es.investing.com/news/stock-market-news/stifel-elige-las-mejores-acciones-de-tecnologia-en-cadena-de-suministro-93CH-3748012",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-spacex-suben-por-ia-del-pentagono-coreweave-cae-3747948",
+      "title": "Las acciones de SpaceX suben por IA del Pentágono; CoreWeave cae",
+      "summary": "Las acciones de SpaceX suben por IA del Pentágono; CoreWeave cae...",
+      "source": "Investing (ES)",
+      "time": "10:49 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-spacex-suben-por-ia-del-pentagono-coreweave-cae-3747948",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/microsoft-comprimido-bajo-resistencias-clave-niveles-en-vivo-93CH-3739664",
+      "title": "Microsoft en rango lateral 387-398 $: niveles en vivo",
+      "summary": "Microsoft en rango lateral 387-398 $: niveles en vivo...",
+      "source": "Investing (ES)",
+      "time": "10:49 PM",
+      "url": "https://es.investing.com/news/stock-market-news/microsoft-comprimido-bajo-resistencias-clave-niveles-en-vivo-93CH-3739664",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/tesla-cae-3-bajo-nube-ichimoku-bajista-niveles-en-vivo-93CH-3739660",
+      "title": "Tesla atrapada entre 377 $ y 395 $: niveles en vivo",
+      "summary": "Tesla atrapada entre 377 $ y 395 $: niveles en vivo...",
+      "source": "Investing (ES)",
+      "time": "10:49 PM",
+      "url": "https://es.investing.com/news/stock-market-news/tesla-cae-3-bajo-nube-ichimoku-bajista-niveles-en-vivo-93CH-3739660",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-green-plains-suben-un-10-tras-el-alza-del-precio-objetivo-de-ubs-93CH-3747935",
+      "title": "Las acciones de Green Plains suben un 10% tras el alza del precio objetivo de UBS",
+      "summary": "Las acciones de Green Plains suben un 10% tras el alza del precio objetivo de UBS...",
+      "source": "Investing (ES)",
+      "time": "10:49 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-green-plains-suben-un-10-tras-el-alza-del-precio-objetivo-de-ubs-93CH-3747935",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
