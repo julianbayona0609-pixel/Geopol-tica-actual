@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-18",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-ganancias-del-kospi-mejoran-por-que-caen-mas-las-acciones-3748213",
+      "title": "Las ganancias del KOSPI mejoran, ¿por qué caen más las acciones?",
+      "summary": "Las ganancias del KOSPI mejoran, ¿por qué caen más las acciones?...",
+      "source": "Investing (ES)",
+      "time": "10:48 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-ganancias-del-kospi-mejoran-por-que-caen-mas-las-acciones-3748213",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/cfm-international-obtiene-certificacion-para-mejorar-la-durabilidad-de-sus-motores-3748205",
+      "title": "CFM International obtiene certificación para mejorar la durabilidad de sus motores",
+      "summary": "CFM International obtiene certificación para mejorar la durabilidad de sus motores...",
+      "source": "Investing (ES)",
+      "time": "10:48 PM",
+      "url": "https://es.investing.com/news/stock-market-news/cfm-international-obtiene-certificacion-para-mejorar-la-durabilidad-de-sus-motores-3748205",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/goldman-identifica-3-temas-de-inversion-mas-alla-de-la-ia-3748202",
+      "title": "Goldman identifica 3 temáticas de inversión fuera de la IA",
+      "summary": "Goldman identifica 3 temáticas de inversión fuera de la IA...",
+      "source": "Investing (ES)",
+      "time": "10:48 PM",
+      "url": "https://es.investing.com/news/stock-market-news/goldman-identifica-3-temas-de-inversion-mas-alla-de-la-ia-3748202",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/ha-tomado-europa-la-delantera-silenciosa-en-resultados-3748198",
+      "title": "¿Ha tomado Europa la delantera silenciosa en resultados?",
+      "summary": "¿Ha tomado Europa la delantera silenciosa en resultados?...",
+      "source": "Investing (ES)",
+      "time": "10:48 PM",
+      "url": "https://es.investing.com/news/stock-market-news/ha-tomado-europa-la-delantera-silenciosa-en-resultados-3748198",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/china-es-la-mayor-amenaza-competitiva-a-largo-plazo-de-spacex-segun-bernstein-3748187",
+      "title": "China es la mayor amenaza competitiva a largo plazo de SpaceX, según Bernstein",
+      "summary": "China es la mayor amenaza competitiva a largo plazo de SpaceX, según Bernstein...",
+      "source": "Investing (ES)",
+      "time": "10:48 PM",
+      "url": "https://es.investing.com/news/stock-market-news/china-es-la-mayor-amenaza-competitiva-a-largo-plazo-de-spacex-segun-bernstein-3748187",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
