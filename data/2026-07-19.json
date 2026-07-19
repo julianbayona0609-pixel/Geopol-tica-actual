@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-19",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bofa-identifica-ganadores-de-la-ia-mas-alla-de-los-semiconductores-3748294",
+      "title": "BofA identifica ganadores de la IA más allá de los semiconductores",
+      "summary": "BofA identifica ganadores de la IA más allá de los semiconductores...",
+      "source": "Investing (ES)",
+      "time": "10:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/bofa-identifica-ganadores-de-la-ia-mas-alla-de-los-semiconductores-3748294",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-empresas-estadounidenses-destinan-su-creciente-liquidez-a-planes-de-crecimiento-segun-morgan-stanley-3748284",
+      "title": "Las empresas estadounidenses destinan su creciente liquidez a planes de crecimiento, según Morgan Stanley",
+      "summary": "Las empresas estadounidenses destinan su creciente liquidez a planes de crecimiento, según Morgan Stanley...",
+      "source": "Investing (ES)",
+      "time": "10:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-empresas-estadounidenses-destinan-su-creciente-liquidez-a-planes-de-crecimiento-segun-morgan-stanley-3748284",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bernstein-destaca-que-los-mercados-de-computo-se-parecen-cada-vez-mas-a-las-materias-primas-3748276",
+      "title": "Bernstein destaca que los mercados de cómputo se parecen cada vez más a las materias primas",
+      "summary": "Bernstein destaca que los mercados de cómputo se parecen cada vez más a las materias primas...",
+      "source": "Investing (ES)",
+      "time": "10:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/bernstein-destaca-que-los-mercados-de-computo-se-parecen-cada-vez-mas-a-las-materias-primas-3748276",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/llamadas-destacadas-de-wall-street-de-la-semana-3748263",
+      "title": "Llamadas destacadas de Wall Street de la semana",
+      "summary": "Llamadas destacadas de Wall Street de la semana...",
+      "source": "Investing (ES)",
+      "time": "10:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/llamadas-destacadas-de-wall-street-de-la-semana-3748263",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-apple-sube-de-calificacion-3748258",
+      "title": "5 grandes movimientos de analistas en IA: Apple sube de calificación",
+      "summary": "5 grandes movimientos de analistas en IA: Apple sube de calificación...",
+      "source": "Investing (ES)",
+      "time": "10:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-apple-sube-de-calificacion-3748258",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
