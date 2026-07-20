@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-20",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/raytheon-gana-un-contrato-naval-de-1810-millones-de-dolares-93CH-3750310",
+      "title": "Raytheon gana un contrato naval de 1.810 millones de dólares",
+      "summary": "Raytheon gana un contrato naval de 1.810 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:59 PM",
+      "url": "https://es.investing.com/news/stock-market-news/raytheon-gana-un-contrato-naval-de-1810-millones-de-dolares-93CH-3750310",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/barclays-se-asocia-con-samsung-para-lanzar-una-nueva-tarjeta-de-credito-en-eeuu-93CH-3750303",
+      "title": "Barclays se asocia con Samsung para lanzar una nueva tarjeta de crédito en EE.UU.",
+      "summary": "Barclays se asocia con Samsung para lanzar una nueva tarjeta de crédito en EE.UU....",
+      "source": "Investing (ES)",
+      "time": "10:59 PM",
+      "url": "https://es.investing.com/news/stock-market-news/barclays-se-asocia-con-samsung-para-lanzar-una-nueva-tarjeta-de-credito-en-eeuu-93CH-3750303",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-tutor-perini-y-v2x-suben-tras-su-inclusion-en-el-sp-smallcap-600-93CH-3750298",
+      "title": "Las acciones de Tutor Perini y V2X suben tras su inclusión en el S&P SmallCap 600",
+      "summary": "Las acciones de Tutor Perini y V2X suben tras su inclusión en el S&P SmallCap 600...",
+      "source": "Investing (ES)",
+      "time": "10:59 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-tutor-perini-y-v2x-suben-tras-su-inclusion-en-el-sp-smallcap-600-93CH-3750298",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-magnolia-petroleo-y-gas-caen-tras-oferta-de-1000-millones-de-dolares-93CH-3750287",
+      "title": "Las acciones de Magnolia Petróleo y gas caen tras oferta de 1.000 millones de dólares",
+      "summary": "Las acciones de Magnolia Petróleo y gas caen tras oferta de 1.000 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:59 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-magnolia-petroleo-y-gas-caen-tras-oferta-de-1000-millones-de-dolares-93CH-3750287",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/snap-llega-a-un-acuerdo-y-deja-a-meta-sola-ante-el-juicio-93CH-3750258",
+      "title": "Snap llega a un acuerdo y deja a Meta sola ante el juicio",
+      "summary": "Snap llega a un acuerdo y deja a Meta sola ante el juicio...",
+      "source": "Investing (ES)",
+      "time": "10:59 PM",
+      "url": "https://es.investing.com/news/stock-market-news/snap-llega-a-un-acuerdo-y-deja-a-meta-sola-ante-el-juicio-93CH-3750258",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
