@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-22",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/vitamin-well-recauda-2200-millones-de-dolares-para-financiar-la-adquisicion-de-empwr-93CH-3754972",
+      "title": "Vitamin Well recauda 2.200 millones de dólares para financiar la adquisición de EMPWR",
+      "summary": "Vitamin Well recauda 2.200 millones de dólares para financiar la adquisición de EMPWR...",
+      "source": "Investing (ES)",
+      "time": "11:02 PM",
+      "url": "https://es.investing.com/news/stock-market-news/vitamin-well-recauda-2200-millones-de-dolares-para-financiar-la-adquisicion-de-empwr-93CH-3754972",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/northrop-grumman-obtiene-contrato-naval-de-1200-millones-de-dolares-para-aviones-e2d-93CH-3754966",
+      "title": "Northrop Grumman obtiene contrato naval de 1.200 millones de dólares para aviones E-2D",
+      "summary": "Northrop Grumman obtiene contrato naval de 1.200 millones de dólares para aviones E-2D...",
+      "source": "Investing (ES)",
+      "time": "11:02 PM",
+      "url": "https://es.investing.com/news/stock-market-news/northrop-grumman-obtiene-contrato-naval-de-1200-millones-de-dolares-para-aviones-e2d-93CH-3754966",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/intel-estudia-una-asociacion-para-su-fabrica-de-chips-en-ohio-3754951",
+      "title": "Intel estudia una asociación para su fábrica de chips en Ohio",
+      "summary": "Intel estudia una asociación para su fábrica de chips en Ohio...",
+      "source": "Investing (ES)",
+      "time": "11:02 PM",
+      "url": "https://es.investing.com/news/stock-market-news/intel-estudia-una-asociacion-para-su-fabrica-de-chips-en-ohio-3754951",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/atoms-de-kalanick-recauda-1700-millones-en-ronda-liderada-por-a16z-3754927",
+      "title": "Atoms de Kalanick recauda 1.700 millones en ronda liderada por a16z",
+      "summary": "Atoms de Kalanick recauda 1.700 millones en ronda liderada por a16z...",
+      "source": "Investing (ES)",
+      "time": "11:02 PM",
+      "url": "https://es.investing.com/news/stock-market-news/atoms-de-kalanick-recauda-1700-millones-en-ronda-liderada-por-a16z-3754927",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/servicenow-eleva-sus-previsiones-anuales-tras-un-solido-crecimiento-en-ia-3754903",
+      "title": "ServiceNow eleva sus previsiones anuales tras un sólido crecimiento en IA",
+      "summary": "ServiceNow eleva sus previsiones anuales tras un sólido crecimiento en IA...",
+      "source": "Investing (ES)",
+      "time": "11:02 PM",
+      "url": "https://es.investing.com/news/stock-market-news/servicenow-eleva-sus-previsiones-anuales-tras-un-solido-crecimiento-en-ia-3754903",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
