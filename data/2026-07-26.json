@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-26",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/son-las-elecciones-de-mitad-de-mandato-un-obstaculo-para-las-acciones-3759627",
+      "title": "¿Son las elecciones de mitad de mandato un obstáculo para las acciones?",
+      "summary": "¿Son las elecciones de mitad de mandato un obstáculo para las acciones?...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/son-las-elecciones-de-mitad-de-mandato-un-obstaculo-para-las-acciones-3759627",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-este-analista-dice-que-la-reconciliacion-30-sigue-siendo-poco-probable-3759623",
+      "title": "Por qué este analista dice que la Reconciliación 3.0 sigue siendo poco probable",
+      "summary": "Por qué este analista dice que la Reconciliación 3.0 sigue siendo poco probable...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-este-analista-dice-que-la-reconciliacion-30-sigue-siendo-poco-probable-3759623",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/united-busco-fusionarse-con-delta-antes-de-acercarse-a-american-3759619",
+      "title": "United buscó fusionarse con Delta antes de acercarse a American",
+      "summary": "United buscó fusionarse con Delta antes de acercarse a American...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/united-busco-fusionarse-con-delta-antes-de-acercarse-a-american-3759619",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-activos-de-etf-en-brasil-casi-se-triplican-en-dos-anos-hasta-los-22800-millones-de-dolares-93CH-3759606",
+      "title": "Los activos de ETF en Brasil casi se triplican en dos años hasta los 22.800 millones de dólares",
+      "summary": "Los activos de ETF en Brasil casi se triplican en dos años hasta los 22.800 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/los-activos-de-etf-en-brasil-casi-se-triplican-en-dos-anos-hasta-los-22800-millones-de-dolares-93CH-3759606",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/vista-previa-del-fomc-la-fed-mantendra-los-tipos-pese-al-alza-del-petroleo-3759605",
+      "title": "Vista previa del FOMC: La Fed mantendrá los tipos pese al alza del petróleo",
+      "summary": "Vista previa del FOMC: La Fed mantendrá los tipos pese al alza del petróleo...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/vista-previa-del-fomc-la-fed-mantendra-los-tipos-pese-al-alza-del-petroleo-3759605",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
