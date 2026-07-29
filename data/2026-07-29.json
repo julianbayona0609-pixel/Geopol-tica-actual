@@ -1,0 +1,56 @@
+{
+  "date": "2026-07-29",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-five9-suben-tras-su-inclusion-en-el-sp-smallcap-600-93CH-3767198",
+      "title": "Las acciones de Five9 suben tras su inclusión en el S&P SmallCap 600",
+      "summary": "Las acciones de Five9 suben tras su inclusión en el S&P SmallCap 600...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-five9-suben-tras-su-inclusion-en-el-sp-smallcap-600-93CH-3767198",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lam-research-93CH-3767125",
+      "title": "¿Por qué se dispara hoy la acción de Lam Research?",
+      "summary": "¿Por qué se dispara hoy la acción de Lam Research?...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lam-research-93CH-3767125",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-meta-platforms-93CH-3767122",
+      "title": "¿Por qué cae hoy la acción de Meta Platforms?",
+      "summary": "¿Por qué cae hoy la acción de Meta Platforms?...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-meta-platforms-93CH-3767122",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-teladoc-93CH-3767066",
+      "title": "¿Por qué se desploma hoy la acción de Teladoc?",
+      "summary": "¿Por qué se desploma hoy la acción de Teladoc?...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-teladoc-93CH-3767066",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fortinet-93CH-3767046",
+      "title": "¿Por qué se dispara hoy la acción de Fortinet?",
+      "summary": "¿Por qué se dispara hoy la acción de Fortinet?...",
+      "source": "Investing (ES)",
+      "time": "10:58 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fortinet-93CH-3767046",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
