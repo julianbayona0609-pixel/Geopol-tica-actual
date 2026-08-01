@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-01",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/que-significa-el-reseteo-de-china-para-el-negocio-de-nike-3773095",
+      "title": "¿Qué significa el reseteo de China para el negocio de Nike?",
+      "summary": "¿Qué significa el reseteo de China para el negocio de Nike?...",
+      "source": "Investing (ES)",
+      "time": "10:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/que-significa-el-reseteo-de-china-para-el-negocio-de-nike-3773095",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-reduccion-de-riesgo-de-los-cta-en-el-nasdaq-parece-casi-completa-bofa-3773074",
+      "title": "La reducción de riesgo de los CTA en el Nasdaq parece casi completa: BofA",
+      "summary": "La reducción de riesgo de los CTA en el Nasdaq parece casi completa: BofA...",
+      "source": "Investing (ES)",
+      "time": "10:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/la-reduccion-de-riesgo-de-los-cta-en-el-nasdaq-parece-casi-completa-bofa-3773074",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/acciones-europeas-esta-llegando-a-su-fin-el-desplome-del-impulso-de-la-ia-3773066",
+      "title": "Acciones europeas: ¿Está llegando a su fin el desplome del impulso de la IA?",
+      "summary": "Acciones europeas: ¿Está llegando a su fin el desplome del impulso de la IA?...",
+      "source": "Investing (ES)",
+      "time": "10:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/acciones-europeas-esta-llegando-a-su-fin-el-desplome-del-impulso-de-la-ia-3773066",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-volatilidad-rotacional-deberia-reducirse-en-las-proximas-semanas-segun-gs-3773038",
+      "title": "La volatilidad rotacional debería reducirse en las próximas semanas, según GS",
+      "summary": "La volatilidad rotacional debería reducirse en las próximas semanas, según GS...",
+      "source": "Investing (ES)",
+      "time": "10:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/la-volatilidad-rotacional-deberia-reducirse-en-las-proximas-semanas-segun-gs-3773038",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/hartnett-de-bofa-califica-a-la-fed-de-abiertamente-dovish-y-aconseja-alejarse-de-los-activos-de-riesgo-3773037",
+      "title": "Hartnett de BofA califica a la Fed de \"abiertamente dovish\" y aconseja alejarse de los activos de riesgo",
+      "summary": "Hartnett de BofA califica a la Fed de \"abiertamente dovish\" y aconseja alejarse de los activos de riesgo...",
+      "source": "Investing (ES)",
+      "time": "10:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/hartnett-de-bofa-califica-a-la-fed-de-abiertamente-dovish-y-aconseja-alejarse-de-los-activos-de-riesgo-3773037",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
