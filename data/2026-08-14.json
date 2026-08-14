@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-14",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/jane-street-sufre-perdidas-de-15000-millones-tras-la-caida-tecnologica-3797809",
+      "title": "Jane Street sufre pérdidas de 15.000 millones tras la caída tecnológica",
+      "summary": "Jane Street sufre pérdidas de 15.000 millones tras la caída tecnológica...",
+      "source": "Investing (ES)",
+      "time": "10:21 PM",
+      "url": "https://es.investing.com/news/stock-market-news/jane-street-sufre-perdidas-de-15000-millones-tras-la-caida-tecnologica-3797809",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-ingresos-trimestrales-de-anthropic-superan-los-11500-millones-de-dolares-ante-su-posible-salida-a-bolsa-3797797",
+      "title": "Los ingresos trimestrales de Anthropic superan los 11.500 millones de dólares ante su posible salida a bolsa",
+      "summary": "Los ingresos trimestrales de Anthropic superan los 11.500 millones de dólares ante su posible salida a bolsa...",
+      "source": "Investing (ES)",
+      "time": "10:21 PM",
+      "url": "https://es.investing.com/news/stock-market-news/los-ingresos-trimestrales-de-anthropic-superan-los-11500-millones-de-dolares-ante-su-posible-salida-a-bolsa-3797797",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/druckenmiller-apuesta-por-amazon-y-amd-mientras-vende-algunos-fabricantes-de-chips-3797788",
+      "title": "Druckenmiller apuesta por Amazon y AMD mientras vende algunos fabricantes de chips",
+      "summary": "Druckenmiller apuesta por Amazon y AMD mientras vende algunos fabricantes de chips...",
+      "source": "Investing (ES)",
+      "time": "10:21 PM",
+      "url": "https://es.investing.com/news/stock-market-news/druckenmiller-apuesta-por-amazon-y-amd-mientras-vende-algunos-fabricantes-de-chips-3797788",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/diana-shipping-retira-su-oferta-de-adquisicion-de-genco-93CH-3797764",
+      "title": "Diana Shipping retira su oferta de adquisición de Genco",
+      "summary": "Diana Shipping retira su oferta de adquisición de Genco...",
+      "source": "Investing (ES)",
+      "time": "10:21 PM",
+      "url": "https://es.investing.com/news/stock-market-news/diana-shipping-retira-su-oferta-de-adquisicion-de-genco-93CH-3797764",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/valueact-holdings-aumenta-su-participacion-en-spotify-un-469-en-el-segundo-trimestre-93CH-3797761",
+      "title": "ValueAct Holdings aumenta su participación en Spotify un 46,9% en el segundo trimestre",
+      "summary": "ValueAct Holdings aumenta su participación en Spotify un 46,9% en el segundo trimestre...",
+      "source": "Investing (ES)",
+      "time": "10:21 PM",
+      "url": "https://es.investing.com/news/stock-market-news/valueact-holdings-aumenta-su-participacion-en-spotify-un-469-en-el-segundo-trimestre-93CH-3797761",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
