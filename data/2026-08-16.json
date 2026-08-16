@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-16",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-reacciones-bursatiles-se-desconectan-en-una-historica-temporada-de-resultados-del-2t-3798212",
+      "title": "Las reacciones bursátiles se desconectan en una histórica temporada de resultados del 2T",
+      "summary": "Las reacciones bursátiles se desconectan en una histórica temporada de resultados del 2T...",
+      "source": "Investing (ES)",
+      "time": "10:18 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-reacciones-bursatiles-se-desconectan-en-una-historica-temporada-de-resultados-del-2t-3798212",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/te-lo-dijimos-primero-estas-acciones-de-pequena-capitalizacion-elegidas-por-ia-suben-un-39-y-un-34-en-el-mes-3798211",
+      "title": "Te lo dijimos primero: estas acciones de pequeña capitalización elegidas por IA suben +39% y +34% en el mes",
+      "summary": "Te lo dijimos primero: estas acciones de pequeña capitalización elegidas por IA suben +39% y +34% en el mes...",
+      "source": "Investing (ES)",
+      "time": "10:18 PM",
+      "url": "https://es.investing.com/news/stock-market-news/te-lo-dijimos-primero-estas-acciones-de-pequena-capitalizacion-elegidas-por-ia-suben-un-39-y-un-34-en-el-mes-3798211",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-entradas-en-acciones-de-eeuu-se-triplican-mientras-wall-street-roza-maximos-historicos-3798201",
+      "title": "Las entradas en acciones de EE.UU. se triplican mientras Wall Street roza máximos históricos",
+      "summary": "Las entradas en acciones de EE.UU. se triplican mientras Wall Street roza máximos históricos...",
+      "source": "Investing (ES)",
+      "time": "10:18 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-entradas-en-acciones-de-eeuu-se-triplican-mientras-wall-street-roza-maximos-historicos-3798201",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-optimismo-en-memoria-apple-y-cisco-rebajadas-3798164",
+      "title": "5 grandes movimientos de analistas en IA: optimismo en memoria; Apple y Cisco rebajadas",
+      "summary": "5 grandes movimientos de analistas en IA: optimismo en memoria; Apple y Cisco rebajadas...",
+      "source": "Investing (ES)",
+      "time": "10:18 PM",
+      "url": "https://es.investing.com/news/stock-market-news/5-grandes-movimientos-de-analistas-en-ia-optimismo-en-memoria-apple-y-cisco-rebajadas-3798164",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/puede-spacex-dar-el-salto-a-la-frontera-de-la-ia-3798115",
+      "title": "¿Puede SpaceX dar el salto a la frontera de la IA?",
+      "summary": "¿Puede SpaceX dar el salto a la frontera de la IA?...",
+      "source": "Investing (ES)",
+      "time": "10:18 PM",
+      "url": "https://es.investing.com/news/stock-market-news/puede-spacex-dar-el-salto-a-la-frontera-de-la-ia-3798115",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
