@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-17",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-andersen-group-caen-tras-oferta-secundaria-de-428-millones-de-titulos-93CH-3799987",
+      "title": "Las acciones de Andersen Group caen tras oferta secundaria de 4,28 millones de títulos",
+      "summary": "Las acciones de Andersen Group caen tras oferta secundaria de 4,28 millones de títulos...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-andersen-group-caen-tras-oferta-secundaria-de-428-millones-de-titulos-93CH-3799987",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-amylyx-suben-tras-anunciar-fecha-de-resultados-de-ensayo-en-fase-3-93CH-3799984",
+      "title": "Las acciones de Amylyx suben tras anunciar fecha de resultados de ensayo en Fase 3",
+      "summary": "Las acciones de Amylyx suben tras anunciar fecha de resultados de ensayo en Fase 3...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-amylyx-suben-tras-anunciar-fecha-de-resultados-de-ensayo-en-fase-3-93CH-3799984",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-kura-oncology-suben-tras-compra-del-director-ejecutivo-93CH-3799982",
+      "title": "Las acciones de Kura Oncology suben tras compra del director ejecutivo",
+      "summary": "Las acciones de Kura Oncology suben tras compra del director ejecutivo...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-kura-oncology-suben-tras-compra-del-director-ejecutivo-93CH-3799982",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/textron-systems-gana-un-contrato-naval-de-231-millones-de-dolares-93CH-3799972",
+      "title": "Textron Systems gana un contrato naval de 231 millones de dólares",
+      "summary": "Textron Systems gana un contrato naval de 231 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/textron-systems-gana-un-contrato-naval-de-231-millones-de-dolares-93CH-3799972",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-contratos-de-defensa-por-153-millones-de-dolares-93CH-3799971",
+      "title": "Lockheed Martin gana contratos de defensa por 153 millones de dólares",
+      "summary": "Lockheed Martin gana contratos de defensa por 153 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-contratos-de-defensa-por-153-millones-de-dolares-93CH-3799971",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
