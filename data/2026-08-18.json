@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-18",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/moodys-confirma-la-calificacion-aa1-de-nvidia-por-el-centro-de-datos-en-ohio-93CH-3801772",
+      "title": "Moody’s confirma la calificación Aa1 de Nvidia por el centro de datos en Ohio",
+      "summary": "Moody’s confirma la calificación Aa1 de Nvidia por el centro de datos en Ohio...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/moodys-confirma-la-calificacion-aa1-de-nvidia-por-el-centro-de-datos-en-ohio-93CH-3801772",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-deuda-hibrida-de-vodafone-por-cambios-en-sus-condiciones-93CH-3801770",
+      "title": "Moody’s mejora la deuda híbrida de Vodafone por cambios en sus condiciones",
+      "summary": "Moody’s mejora la deuda híbrida de Vodafone por cambios en sus condiciones...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-deuda-hibrida-de-vodafone-por-cambios-en-sus-condiciones-93CH-3801770",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bae-systems-obtiene-una-modificacion-de-contrato-naval-por-1692-millones-de-dolares-93CH-3801754",
+      "title": "BAE Systems obtiene una modificación de contrato naval por 169,2 millones de dólares",
+      "summary": "BAE Systems obtiene una modificación de contrato naval por 169,2 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/bae-systems-obtiene-una-modificacion-de-contrato-naval-por-1692-millones-de-dolares-93CH-3801754",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-refuerza-el-control-de-sus-fundadores-antes-de-su-esperada-opi-3801746",
+      "title": "Anthropic refuerza el control de sus fundadores antes de su esperada OPI",
+      "summary": "Anthropic refuerza el control de sus fundadores antes de su esperada OPI...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-refuerza-el-control-de-sus-fundadores-antes-de-su-esperada-opi-3801746",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-evolution-petroleum-93CH-3801716",
+      "title": "¿Por qué caen hoy las acciones de Evolution Petroleum?",
+      "summary": "¿Por qué caen hoy las acciones de Evolution Petroleum?...",
+      "source": "Investing (ES)",
+      "time": "10:22 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-evolution-petroleum-93CH-3801716",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
