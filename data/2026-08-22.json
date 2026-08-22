@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-22",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-clientes-de-nvidia-se-enfrentan-a-subidas-de-precios-de-servidores-de-mas-del-15-3807079",
+      "title": "Los clientes de Nvidia se enfrentan a subidas de precios de servidores de más del 15%",
+      "summary": "Los clientes de Nvidia se enfrentan a subidas de precios de servidores de más del 15%...",
+      "source": "Investing (ES)",
+      "time": "10:19 PM",
+      "url": "https://es.investing.com/news/stock-market-news/los-clientes-de-nvidia-se-enfrentan-a-subidas-de-precios-de-servidores-de-mas-del-15-3807079",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/que-ocurre-cuando-el-ciclo-de-inversion-en-ia-se-ralentiza-3807072",
+      "title": "¿Qué ocurre cuando el ciclo de inversión en IA se ralentiza?",
+      "summary": "¿Qué ocurre cuando el ciclo de inversión en IA se ralentiza?...",
+      "source": "Investing (ES)",
+      "time": "10:19 PM",
+      "url": "https://es.investing.com/news/stock-market-news/que-ocurre-cuando-el-ciclo-de-inversion-en-ia-se-ralentiza-3807072",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/cambiara-el-interes-por-el-riesgo-de-apple-con-john-ternus-3807070",
+      "title": "¿Cambiará el interés por el riesgo de Apple con John Ternus?",
+      "summary": "¿Cambiará el interés por el riesgo de Apple con John Ternus?...",
+      "source": "Investing (ES)",
+      "time": "10:19 PM",
+      "url": "https://es.investing.com/news/stock-market-news/cambiara-el-interes-por-el-riesgo-de-apple-con-john-ternus-3807070",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-cto-de-crowdstrike-se-va-para-lanzar-un-fondo-de-ia-93CH-3807068",
+      "title": "El CTO de CrowdStrike se va para lanzar un fondo de IA",
+      "summary": "El CTO de CrowdStrike se va para lanzar un fondo de IA...",
+      "source": "Investing (ES)",
+      "time": "10:19 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-cto-de-crowdstrike-se-va-para-lanzar-un-fondo-de-ia-93CH-3807068",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-posicionamiento-en-acciones-de-los-cta-vuelve-a-niveles-previos-al-conflicto-con-iran-bofa-3807061",
+      "title": "El posicionamiento en acciones de los CTA vuelve a niveles previos al conflicto con Irán: BofA",
+      "summary": "El posicionamiento en acciones de los CTA vuelve a niveles previos al conflicto con Irán: BofA...",
+      "source": "Investing (ES)",
+      "time": "10:19 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-posicionamiento-en-acciones-de-los-cta-vuelve-a-niveles-previos-al-conflicto-con-iran-bofa-3807061",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
