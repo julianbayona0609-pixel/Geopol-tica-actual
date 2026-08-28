@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-28",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/5-acciones-con-mas-del-30-mensual-los-resultados-del-q2-impulsaron-estas-selecciones-de-ia-3814285",
+      "title": "5 acciones con más del 30% mensual: los resultados del Q2 impulsaron estas selecciones de IA",
+      "summary": "5 acciones con más del 30% mensual: los resultados del Q2 impulsaron estas selecciones de IA...",
+      "source": "Investing (ES)",
+      "time": "05:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/5-acciones-con-mas-del-30-mensual-los-resultados-del-q2-impulsaron-estas-selecciones-de-ia-3814285",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-paypal-caen-un-12-en-el-mercado-fuera-de-hora-93CH-3814279",
+      "title": "Las acciones de PayPal caen un 12% en el mercado fuera de hora",
+      "summary": "Las acciones de PayPal caen un 12% en el mercado fuera de hora...",
+      "source": "Investing (ES)",
+      "time": "05:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-paypal-caen-un-12-en-el-mercado-fuera-de-hora-93CH-3814279",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-a-la-espera-del-discurso-de-warsh-3814276",
+      "title": "Las bolsas asiáticas caen a la espera del discurso de Warsh",
+      "summary": "Las bolsas asiáticas caen a la espera del discurso de Warsh...",
+      "source": "Investing (ES)",
+      "time": "05:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-a-la-espera-del-discurso-de-warsh-3814276",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/un-juez-declara-ilegal-la-lista-negra-del-pentagono-contra-anthropic-93CH-3814271",
+      "title": "Un juez declara ilegal la lista negra del Pentágono contra Anthropic",
+      "summary": "Un juez declara ilegal la lista negra del Pentágono contra Anthropic...",
+      "source": "Investing (ES)",
+      "time": "05:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/un-juez-declara-ilegal-la-lista-negra-del-pentagono-contra-anthropic-93CH-3814271",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/advent-y-stripe-abandonan-su-oferta-de-50000-millones-por-paypal-3814266",
+      "title": "Advent y Stripe abandonan su oferta de 50.000 millones por PayPal",
+      "summary": "Advent y Stripe abandonan su oferta de 50.000 millones por PayPal...",
+      "source": "Investing (ES)",
+      "time": "05:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/advent-y-stripe-abandonan-su-oferta-de-50000-millones-por-paypal-3814266",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
