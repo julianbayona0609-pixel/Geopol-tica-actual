@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-01",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/western-union-enfrenta-investigacion-en-australia-por-canales-de-pago-de-alto-riesgo-93CH-3817134",
+      "title": "Western Union enfrenta investigación en Australia por canales de pago de alto riesgo",
+      "summary": "Western Union enfrenta investigación en Australia por canales de pago de alto riesgo...",
+      "source": "Investing (ES)",
+      "time": "12:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/western-union-enfrenta-investigacion-en-australia-por-canales-de-pago-de-alto-riesgo-93CH-3817134",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bessent-insta-a-japon-a-mostrar-un-camino-hacia-la-sostenibilidad-fiscal-y-la-subida-de-tipos-3817133",
+      "title": "Bessent insta a Japón a mostrar un camino hacia la sostenibilidad fiscal y la subida de tipos",
+      "summary": "Bessent insta a Japón a mostrar un camino hacia la sostenibilidad fiscal y la subida de tipos...",
+      "source": "Investing (ES)",
+      "time": "12:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/bessent-insta-a-japon-a-mostrar-un-camino-hacia-la-sostenibilidad-fiscal-y-la-subida-de-tipos-3817133",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-se-estabilizan-ante-riesgos-de-tipos-e-iran-3817129",
+      "title": "Los futuros de las acciones de EE.UU. se estabilizan ante riesgos de tipos e Irán",
+      "summary": "Los futuros de las acciones de EE.UU. se estabilizan ante riesgos de tipos e Irán...",
+      "source": "Investing (ES)",
+      "time": "12:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-se-estabilizan-ante-riesgos-de-tipos-e-iran-3817129",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-firma-un-acuerdo-de-35000-millones-de-dolares-con-lambda-93CH-3817108",
+      "title": "Anthropic firma un acuerdo de 35.000 millones de dólares con Lambda",
+      "summary": "Anthropic firma un acuerdo de 35.000 millones de dólares con Lambda...",
+      "source": "Investing (ES)",
+      "time": "12:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-firma-un-acuerdo-de-35000-millones-de-dolares-con-lambda-93CH-3817108",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/treinta-ganancias-superiores-al-30-la-nueva-lista-de-ia-para-septiembre-llega-manana-3817086",
+      "title": "Treinta ganancias superiores al 30%: la nueva lista de IA para septiembre llega mañana",
+      "summary": "Treinta ganancias superiores al 30%: la nueva lista de IA para septiembre llega mañana...",
+      "source": "Investing (ES)",
+      "time": "12:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/treinta-ganancias-superiores-al-30-la-nueva-lista-de-ia-para-septiembre-llega-manana-3817086",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
