@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-03",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/toyota-estudia-el-uso-de-hidrogeno-en-camiones-para-el-transporte-de-piezas-93CH-3822299",
+      "title": "Toyota estudia el uso de hidrógeno en camiones para el transporte de piezas",
+      "summary": "Toyota estudia el uso de hidrógeno en camiones para el transporte de piezas...",
+      "source": "Investing (ES)",
+      "time": "11:47 PM",
+      "url": "https://es.investing.com/news/stock-market-news/toyota-estudia-el-uso-de-hidrogeno-en-camiones-para-el-transporte-de-piezas-93CH-3822299",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/spacexai-lanza-grok-bot-para-empresas-con-prueba-gratuita-93CH-3822292",
+      "title": "SpaceXAI lanza Grok Bot para empresas con prueba gratuita",
+      "summary": "SpaceXAI lanza Grok Bot para empresas con prueba gratuita...",
+      "source": "Investing (ES)",
+      "time": "11:47 PM",
+      "url": "https://es.investing.com/news/stock-market-news/spacexai-lanza-grok-bot-para-empresas-con-prueba-gratuita-93CH-3822292",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-globus-medical-suben-tras-aprobacion-de-sistema-de-imagen-en-la-ue-93CH-3822286",
+      "title": "Las acciones de Globus Medical suben tras aprobación de sistema de imagen en la UE",
+      "summary": "Las acciones de Globus Medical suben tras aprobación de sistema de imagen en la UE...",
+      "source": "Investing (ES)",
+      "time": "11:47 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-globus-medical-suben-tras-aprobacion-de-sistema-de-imagen-en-la-ue-93CH-3822286",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/fitch-revisa-perspectiva-de-cantor-fitzgerald-por-expansion-del-negocio-93CH-3822282",
+      "title": "Fitch revisa perspectiva de Cantor Fitzgerald por expansión del negocio",
+      "summary": "Fitch revisa perspectiva de Cantor Fitzgerald por expansión del negocio...",
+      "source": "Investing (ES)",
+      "time": "11:47 PM",
+      "url": "https://es.investing.com/news/stock-market-news/fitch-revisa-perspectiva-de-cantor-fitzgerald-por-expansion-del-negocio-93CH-3822282",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/sp-mejora-perspectiva-de-weatherford-por-su-colchon-crediticio-93CH-3822281",
+      "title": "S&P mejora perspectiva de Weatherford por su colchón crediticio",
+      "summary": "S&P mejora perspectiva de Weatherford por su colchón crediticio...",
+      "source": "Investing (ES)",
+      "time": "11:47 PM",
+      "url": "https://es.investing.com/news/stock-market-news/sp-mejora-perspectiva-de-weatherford-por-su-colchon-crediticio-93CH-3822281",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
