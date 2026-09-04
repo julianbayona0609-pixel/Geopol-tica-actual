@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-04",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bloom-energy-illumina-y-everpure-se-unen-al-sp-500-en-rebalanceo-3823754",
+      "title": "Bloom Energy, Illumina y Everpure se unen al S&P 500 en el rebalanceo trimestral",
+      "summary": "Bloom Energy, Illumina y Everpure se unen al S&P 500 en el rebalanceo trimestral...",
+      "source": "Investing (ES)",
+      "time": "11:44 PM",
+      "url": "https://es.investing.com/news/stock-market-news/bloom-energy-illumina-y-everpure-se-unen-al-sp-500-en-rebalanceo-3823754",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/boeing-obtiene-un-contrato-de-241-millones-de-dolares-con-la-marina-93CH-3823745",
+      "title": "Boeing obtiene un contrato de 241 millones de dólares con la Marina",
+      "summary": "Boeing obtiene un contrato de 241 millones de dólares con la Marina...",
+      "source": "Investing (ES)",
+      "time": "11:44 PM",
+      "url": "https://es.investing.com/news/stock-market-news/boeing-obtiene-un-contrato-de-241-millones-de-dolares-con-la-marina-93CH-3823745",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/huntington-ingalls-gana-contrato-naval-de-336-millones-de-dolares-para-el-cvn-82-93CH-3823744",
+      "title": "Huntington Ingalls gana contrato naval de 336 millones de dólares para el CVN 82",
+      "summary": "Huntington Ingalls gana contrato naval de 336 millones de dólares para el CVN 82...",
+      "source": "Investing (ES)",
+      "time": "11:44 PM",
+      "url": "https://es.investing.com/news/stock-market-news/huntington-ingalls-gana-contrato-naval-de-336-millones-de-dolares-para-el-cvn-82-93CH-3823744",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/general-dynamics-obtiene-contratos-militares-por-2489-millones-de-dolares-93CH-3823742",
+      "title": "General Dynamics obtiene contratos militares por 248,9 millones de dólares",
+      "summary": "General Dynamics obtiene contratos militares por 248,9 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:44 PM",
+      "url": "https://es.investing.com/news/stock-market-news/general-dynamics-obtiene-contratos-militares-por-2489-millones-de-dolares-93CH-3823742",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-mas-de-150-millones-de-dolares-en-contratos-de-defensa-93CH-3823741",
+      "title": "Lockheed Martin gana más de 150 millones de dólares en contratos de defensa",
+      "summary": "Lockheed Martin gana más de 150 millones de dólares en contratos de defensa...",
+      "source": "Investing (ES)",
+      "time": "11:44 PM",
+      "url": "https://es.investing.com/news/stock-market-news/lockheed-martin-gana-mas-de-150-millones-de-dolares-en-contratos-de-defensa-93CH-3823741",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
