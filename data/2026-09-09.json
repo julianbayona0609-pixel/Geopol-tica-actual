@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-09",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-kinetik-holdings-93CH-3828592",
+      "title": "¿Por qué se dispara hoy la acción de Kinetik Holdings?",
+      "summary": "¿Por qué se dispara hoy la acción de Kinetik Holdings?...",
+      "source": "Investing (ES)",
+      "time": "11:50 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-kinetik-holdings-93CH-3828592",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-enbridge-93CH-3828590",
+      "title": "¿Por qué cae hoy la acción de Enbridge?",
+      "summary": "¿Por qué cae hoy la acción de Enbridge?...",
+      "source": "Investing (ES)",
+      "time": "11:50 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-enbridge-93CH-3828590",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-investigador-de-ia-de-meta-andrew-tulloch-se-va-tras-el-lanzamiento-de-muse-93CH-3828582",
+      "title": "El investigador de IA de Meta, Andrew Tulloch, se va tras el lanzamiento de Muse",
+      "summary": "El investigador de IA de Meta, Andrew Tulloch, se va tras el lanzamiento de Muse...",
+      "source": "Investing (ES)",
+      "time": "11:50 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-investigador-de-ia-de-meta-andrew-tulloch-se-va-tras-el-lanzamiento-de-muse-93CH-3828582",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-iqvia-suben-tras-emision-de-pagares-por-2000-millones-93CH-3828577",
+      "title": "Las acciones de IQVIA suben tras emisión de pagarés por 2.000 millones",
+      "summary": "Las acciones de IQVIA suben tras emisión de pagarés por 2.000 millones...",
+      "source": "Investing (ES)",
+      "time": "11:50 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-iqvia-suben-tras-emision-de-pagares-por-2000-millones-93CH-3828577",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-centrus-energy-93CH-3828572",
+      "title": "¿Por qué cae hoy la acción de Centrus Energy?",
+      "summary": "¿Por qué cae hoy la acción de Centrus Energy?...",
+      "source": "Investing (ES)",
+      "time": "11:50 PM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-centrus-energy-93CH-3828572",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
