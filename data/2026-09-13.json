@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-13",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-trade-de-ia-de-wall-street-en-el-punto-de-mira-tras-el-llamamiento-a-frenar-su-desarrollo-3832642",
+      "title": "El ’trade’ de IA de Wall Street, en el punto de mira tras el llamamiento a frenar su desarrollo",
+      "summary": "El ’trade’ de IA de Wall Street, en el punto de mira tras el llamamiento a frenar su desarrollo...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-trade-de-ia-de-wall-street-en-el-punto-de-mira-tras-el-llamamiento-a-frenar-su-desarrollo-3832642",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-etfs-de-acciones-de-eeuu-registran-salidas-de-4500-millones-de-dolares-3832604",
+      "title": "Los ETFs de acciones de EE.UU. registran salidas de 4.500 millones de dólares",
+      "summary": "Los ETFs de acciones de EE.UU. registran salidas de 4.500 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/los-etfs-de-acciones-de-eeuu-registran-salidas-de-4500-millones-de-dolares-3832604",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-auge-de-la-ia-francesa-expone-la-brecha-de-financiacion-en-europa-3832586",
+      "title": "El auge de la IA francesa expone la brecha de financiación en Europa",
+      "summary": "El auge de la IA francesa expone la brecha de financiación en Europa...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-auge-de-la-ia-francesa-expone-la-brecha-de-financiacion-en-europa-3832586",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/corea-del-sur-amplia-el-horario-bursatil-para-atraer-inversores-globales-3832582",
+      "title": "Corea del Sur amplía el horario bursátil para atraer inversores globales",
+      "summary": "Corea del Sur amplía el horario bursátil para atraer inversores globales...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/corea-del-sur-amplia-el-horario-bursatil-para-atraer-inversores-globales-3832582",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-5-preocupaciones-del-mercado-que-los-inversores-no-pueden-ignorar-segun-citi-3832579",
+      "title": "Las 5 preocupaciones del mercado que los inversores no pueden ignorar, según Citi",
+      "summary": "Las 5 preocupaciones del mercado que los inversores no pueden ignorar, según Citi...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-5-preocupaciones-del-mercado-que-los-inversores-no-pueden-ignorar-segun-citi-3832579",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
