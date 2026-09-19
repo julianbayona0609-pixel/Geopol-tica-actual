@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-19",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-esfuerzos-de-seguridad-en-ia-requeriran-mas-capacidad-de-computo-3841546",
+      "title": "Los esfuerzos de seguridad en IA requerirán más capacidad de cómputo",
+      "summary": "Los esfuerzos de seguridad en IA requerirán más capacidad de cómputo...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/los-esfuerzos-de-seguridad-en-ia-requeriran-mas-capacidad-de-computo-3841546",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/acabara-el-miedo-a-la-ia-con-el-boom-de-la-inteligencia-artificial-3841541",
+      "title": "¿Acabará el miedo a la IA con el boom de la inteligencia artificial?",
+      "summary": "¿Acabará el miedo a la IA con el boom de la inteligencia artificial?...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/acabara-el-miedo-a-la-ia-con-el-boom-de-la-inteligencia-artificial-3841541",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/un-analista-explica-por-que-evitar-las-acciones-de-nike-pese-a-su-fuerte-caida-3841539",
+      "title": "Un analista explica por qué evitar las acciones de Nike pese a su fuerte caída",
+      "summary": "Un analista explica por qué evitar las acciones de Nike pese a su fuerte caída...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/un-analista-explica-por-que-evitar-las-acciones-de-nike-pese-a-su-fuerte-caida-3841539",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-peso-de-spacex-en-el-nasdaq-100-se-disparara-al-282-en-el-rebalanceo-trimestral-3841533",
+      "title": "El peso de SpaceX en el Nasdaq 100 se disparará al 2,82% en el rebalanceo trimestral",
+      "summary": "El peso de SpaceX en el Nasdaq 100 se disparará al 2,82% en el rebalanceo trimestral...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/el-peso-de-spacex-en-el-nasdaq-100-se-disparara-al-282-en-el-rebalanceo-trimestral-3841533",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-una-posicion-cautelosa-pese-a-la-resiliencia-del-mercado-93CH-3841477",
+      "title": "Deutsche Bank ve una posición cautelosa pese a la resiliencia del mercado",
+      "summary": "Deutsche Bank ve una posición cautelosa pese a la resiliencia del mercado...",
+      "source": "Investing (ES)",
+      "time": "11:54 PM",
+      "url": "https://es.investing.com/news/stock-market-news/deutsche-bank-ve-una-posicion-cautelosa-pese-a-la-resiliencia-del-mercado-93CH-3841477",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
