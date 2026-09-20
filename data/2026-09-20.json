@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-20",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/jefferies-mantiene-su-optimismo-sobre-el-sp-500-y-preve-9000-puntos-a-finales-de-2027-3841637",
+      "title": "Jefferies mantiene su optimismo sobre el S&P 500 y prevé 9.000 puntos a finales de 2027",
+      "summary": "Jefferies mantiene su optimismo sobre el S&P 500 y prevé 9.000 puntos a finales de 2027...",
+      "source": "Investing (ES)",
+      "time": "11:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/jefferies-mantiene-su-optimismo-sobre-el-sp-500-y-preve-9000-puntos-a-finales-de-2027-3841637",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-que-hacen-normalmente-las-acciones-3841635",
+      "title": "Elecciones de mitad de mandato: ¿Qué hacen normalmente las acciones?",
+      "summary": "Elecciones de mitad de mandato: ¿Qué hacen normalmente las acciones?...",
+      "source": "Investing (ES)",
+      "time": "11:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-que-hacen-normalmente-las-acciones-3841635",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/volvo-cars-nombra-a-klaus-zellmer-como-nuevo-director-ejecutivo-93CH-3841603",
+      "title": "Volvo Cars nombra a Klaus Zellmer como nuevo director ejecutivo",
+      "summary": "Volvo Cars nombra a Klaus Zellmer como nuevo director ejecutivo...",
+      "source": "Investing (ES)",
+      "time": "11:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/volvo-cars-nombra-a-klaus-zellmer-como-nuevo-director-ejecutivo-93CH-3841603",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/estos-3-factores-siguen-siendo-riesgos-significativos-para-las-valoraciones-bursatiles-3841601",
+      "title": "Estos 3 factores \"siguen siendo riesgos significativos\" para las valoraciones bursátiles",
+      "summary": "Estos 3 factores \"siguen siendo riesgos significativos\" para las valoraciones bursátiles...",
+      "source": "Investing (ES)",
+      "time": "11:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/estos-3-factores-siguen-siendo-riesgos-significativos-para-las-valoraciones-bursatiles-3841601",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-bolsas-de-arabia-saudi-y-el-golfo-caen-tras-ataques-huties-en-riad-3841593",
+      "title": "Las bolsas de Arabia Saudí y el Golfo caen tras ataques hutíes en Riad",
+      "summary": "Las bolsas de Arabia Saudí y el Golfo caen tras ataques hutíes en Riad...",
+      "source": "Investing (ES)",
+      "time": "11:51 PM",
+      "url": "https://es.investing.com/news/stock-market-news/las-bolsas-de-arabia-saudi-y-el-golfo-caen-tras-ataques-huties-en-riad-3841593",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
