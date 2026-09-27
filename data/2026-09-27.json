@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-27",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/boeing-detecta-un-fallo-de-software-en-el-737-max-que-afecta-a-la-navegacion-3850305",
+      "title": "Boeing detecta un fallo de software en el 737 MAX que afecta a la navegación",
+      "summary": "Boeing detecta un fallo de software en el 737 MAX que afecta a la navegación...",
+      "source": "Investing (ES)",
+      "time": "12:15 AM",
+      "url": "https://es.investing.com/news/stock-market-news/boeing-detecta-un-fallo-de-software-en-el-737-max-que-afecta-a-la-navegacion-3850305",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/estan-los-cruceros-fluviales-en-riesgo-a-largo-plazo-por-el-cambio-climatico-3850295",
+      "title": "¿Están los cruceros fluviales en riesgo a largo plazo por el cambio climático?",
+      "summary": "¿Están los cruceros fluviales en riesgo a largo plazo por el cambio climático?...",
+      "source": "Investing (ES)",
+      "time": "12:15 AM",
+      "url": "https://es.investing.com/news/stock-market-news/estan-los-cruceros-fluviales-en-riesgo-a-largo-plazo-por-el-cambio-climatico-3850295",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/aramco-estudia-una-unidad-de-gas-independiente-valorada-en-mas-de-100000-millones-de-dolares-3850292",
+      "title": "Aramco estudia una unidad de gas independiente valorada en más de 100.000 millones de dólares",
+      "summary": "Aramco estudia una unidad de gas independiente valorada en más de 100.000 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "12:15 AM",
+      "url": "https://es.investing.com/news/stock-market-news/aramco-estudia-una-unidad-de-gas-independiente-valorada-en-mas-de-100000-millones-de-dolares-3850292",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/gold-fields-se-acerca-a-northern-star-para-una-posible-adquisicion-3850277",
+      "title": "Gold Fields se acerca a Northern Star para una posible adquisición",
+      "summary": "Gold Fields se acerca a Northern Star para una posible adquisición...",
+      "source": "Investing (ES)",
+      "time": "12:15 AM",
+      "url": "https://es.investing.com/news/stock-market-news/gold-fields-se-acerca-a-northern-star-para-una-posible-adquisicion-3850277",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/como-las-telecos-pueden-convertirse-en-ganadoras-de-la-ia-segun-bofa-3850196",
+      "title": "Cómo las telecos pueden convertirse en ganadoras de la IA según BofA",
+      "summary": "Cómo las telecos pueden convertirse en ganadoras de la IA según BofA...",
+      "source": "Investing (ES)",
+      "time": "12:15 AM",
+      "url": "https://es.investing.com/news/stock-market-news/como-las-telecos-pueden-convertirse-en-ganadoras-de-la-ia-segun-bofa-3850196",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
