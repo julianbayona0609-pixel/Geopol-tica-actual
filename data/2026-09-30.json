@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-30",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-mientras-los-rendimientos-pausan-y-el-petroleo-cae-3854591",
+      "title": "Los futuros de las acciones de EE.UU. suben mientras los rendimientos pausan y el petróleo cae",
+      "summary": "Los futuros de las acciones de EE.UU. suben mientras los rendimientos pausan y el petróleo cae...",
+      "source": "Investing (ES)",
+      "time": "01:05 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-mientras-los-rendimientos-pausan-y-el-petroleo-cae-3854591",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/robinhood-presenta-agentes-de-ia-para-el-trading-automatizado-3854578",
+      "title": "Robinhood presenta agentes de IA para el trading automatizado",
+      "summary": "Robinhood presenta agentes de IA para el trading automatizado...",
+      "source": "Investing (ES)",
+      "time": "01:05 AM",
+      "url": "https://es.investing.com/news/stock-market-news/robinhood-presenta-agentes-de-ia-para-el-trading-automatizado-3854578",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/google-paga-a-100-editores-por-contenido-para-su-busqueda-con-ia-93CH-3854573",
+      "title": "Google paga a 100 editores por contenido para su búsqueda con IA",
+      "summary": "Google paga a 100 editores por contenido para su búsqueda con IA...",
+      "source": "Investing (ES)",
+      "time": "01:05 AM",
+      "url": "https://es.investing.com/news/stock-market-news/google-paga-a-100-editores-por-contenido-para-su-busqueda-con-ia-93CH-3854573",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vanda-pharmaceuticals-93CH-3854566",
+      "title": "¿Por qué se dispara hoy la acción de Vanda Pharmaceuticals?",
+      "summary": "¿Por qué se dispara hoy la acción de Vanda Pharmaceuticals?...",
+      "source": "Investing (ES)",
+      "time": "01:05 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-vanda-pharmaceuticals-93CH-3854566",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/accelevation-fija-el-precio-de-su-opv-en-18-dolares-por-accion-en-el-nasdaq-432SI-3854555",
+      "title": "Accelevation fija el precio de su OPV en 18 dólares por acción en el Nasdaq",
+      "summary": "Accelevation fija el precio de su OPV en 18 dólares por acción en el Nasdaq...",
+      "source": "Investing (ES)",
+      "time": "01:05 AM",
+      "url": "https://es.investing.com/news/stock-market-news/accelevation-fija-el-precio-de-su-opv-en-18-dolares-por-accion-en-el-nasdaq-432SI-3854555",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
