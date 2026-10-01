@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-01",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-los-resultados-de-micron-3856340",
+      "title": "Los futuros de las acciones de EE.UU. suben tras los resultados de Micron",
+      "summary": "Los futuros de las acciones de EE.UU. suben tras los resultados de Micron...",
+      "source": "Investing (ES)",
+      "time": "01:04 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-los-resultados-de-micron-3856340",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/transurban-comprara-participaciones-en-autopistas-de-peaje-de-sidney-por-4500-millones-de-dolares-australianos-3856336",
+      "title": "Transurban comprará participaciones en autopistas de peaje de Sídney por 4.500 millones de dólares australianos",
+      "summary": "Transurban comprará participaciones en autopistas de peaje de Sídney por 4.500 millones de dólares australianos...",
+      "source": "Investing (ES)",
+      "time": "01:04 AM",
+      "url": "https://es.investing.com/news/stock-market-news/transurban-comprara-participaciones-en-autopistas-de-peaje-de-sidney-por-4500-millones-de-dolares-australianos-3856336",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/paramount-y-warner-bros-discovery-esperan-cerrar-su-fusion-el-6-de-octubre-3856334",
+      "title": "Paramount y Warner Bros. Discovery esperan cerrar su fusión el 6 de octubre",
+      "summary": "Paramount y Warner Bros. Discovery esperan cerrar su fusión el 6 de octubre...",
+      "source": "Investing (ES)",
+      "time": "01:04 AM",
+      "url": "https://es.investing.com/news/stock-market-news/paramount-y-warner-bros-discovery-esperan-cerrar-su-fusion-el-6-de-octubre-3856334",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/directores-ejecutivos-de-tecnologia-cuestionan-al-lider-de-anthropic-sobre-ia-3856305",
+      "title": "Directores ejecutivos de tecnología cuestionan al líder de Anthropic sobre IA",
+      "summary": "Directores ejecutivos de tecnología cuestionan al líder de Anthropic sobre IA...",
+      "source": "Investing (ES)",
+      "time": "01:04 AM",
+      "url": "https://es.investing.com/news/stock-market-news/directores-ejecutivos-de-tecnologia-cuestionan-al-lider-de-anthropic-sobre-ia-3856305",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/moodys-rebaja-skillsoft-a-caa2-por-su-elevada-deuda-3856286",
+      "title": "Moody’s rebaja Skillsoft a Caa2 por su elevada deuda",
+      "summary": "Moody’s rebaja Skillsoft a Caa2 por su elevada deuda...",
+      "source": "Investing (ES)",
+      "time": "01:04 AM",
+      "url": "https://es.investing.com/news/stock-market-news/moodys-rebaja-skillsoft-a-caa2-por-su-elevada-deuda-3856286",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
