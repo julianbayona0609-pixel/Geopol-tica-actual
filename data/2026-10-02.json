@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-02",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/mcdonalds-vende-local-en-hong-kong-por-120-millones-de-dolares-de-hk-93CH-3858236",
+      "title": "McDonald’s vende local en Hong Kong por 120 millones de dólares de HK",
+      "summary": "McDonald’s vende local en Hong Kong por 120 millones de dólares de HK...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/mcdonalds-vende-local-en-hong-kong-por-120-millones-de-dolares-de-hk-93CH-3858236",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/netflix-se-asocia-con-filmin-para-ofrecer-contenido-seleccionado-en-espana-93CH-3858235",
+      "title": "Netflix se asocia con Filmin para ofrecer contenido seleccionado en España",
+      "summary": "Netflix se asocia con Filmin para ofrecer contenido seleccionado en España...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/netflix-se-asocia-con-filmin-para-ofrecer-contenido-seleccionado-en-espana-93CH-3858235",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/moderna-se-unira-al-nasdaq100-el-9-de-octubre-reemplazando-a-warner-bros-93CH-3858234",
+      "title": "Moderna se unirá al Nasdaq-100 el 9 de octubre, reemplazando a Warner Bros.",
+      "summary": "Moderna se unirá al Nasdaq-100 el 9 de octubre, reemplazando a Warner Bros....",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/moderna-se-unira-al-nasdaq100-el-9-de-octubre-reemplazando-a-warner-bros-93CH-3858234",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/twilio-se-une-al-sp-500-tras-la-reorganizacion-de-indices-de-sp-dow-jones-3858199",
+      "title": "Twilio se une al S&P 500 tras la reorganización de índices de S&P Dow Jones",
+      "summary": "Twilio se une al S&P 500 tras la reorganización de índices de S&P Dow Jones...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/twilio-se-une-al-sp-500-tras-la-reorganizacion-de-indices-de-sp-dow-jones-3858199",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-chronoscale-suben-con-objetivo-de-1000-millones-en-ingresos-3858190",
+      "title": "Las acciones de ChronoScale suben con objetivo de 1.000 millones en ingresos",
+      "summary": "Las acciones de ChronoScale suben con objetivo de 1.000 millones en ingresos...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-chronoscale-suben-con-objetivo-de-1000-millones-en-ingresos-3858190",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
