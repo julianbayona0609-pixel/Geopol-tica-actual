@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-05",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/accion-de-adobe-cinco-preguntas-estrategicas-ante-el-nuevo-liderazgo-3859802",
+      "title": "Acción de Adobe: cinco preguntas estratégicas ante el nuevo liderazgo",
+      "summary": "Acción de Adobe: cinco preguntas estratégicas ante el nuevo liderazgo...",
+      "source": "Investing (ES)",
+      "time": "12:26 AM",
+      "url": "https://es.investing.com/news/stock-market-news/accion-de-adobe-cinco-preguntas-estrategicas-ante-el-nuevo-liderazgo-3859802",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/exinvestigador-de-anthropic-testificara-en-audiencia-de-ia-del-ayuntamiento-de-nueva-york-3859794",
+      "title": "Exinvestigador de Anthropic testificará en audiencia de IA del Ayuntamiento de Nueva York",
+      "summary": "Exinvestigador de Anthropic testificará en audiencia de IA del Ayuntamiento de Nueva York...",
+      "source": "Investing (ES)",
+      "time": "12:26 AM",
+      "url": "https://es.investing.com/news/stock-market-news/exinvestigador-de-anthropic-testificara-en-audiencia-de-ia-del-ayuntamiento-de-nueva-york-3859794",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/schneider-electric-cerca-de-un-acuerdo-de-20000-millones-de-dolares-con-ptc-3859792",
+      "title": "Schneider Electric cerca de un acuerdo de 20.000 millones de dólares con PTC",
+      "summary": "Schneider Electric cerca de un acuerdo de 20.000 millones de dólares con PTC...",
+      "source": "Investing (ES)",
+      "time": "12:26 AM",
+      "url": "https://es.investing.com/news/stock-market-news/schneider-electric-cerca-de-un-acuerdo-de-20000-millones-de-dolares-con-ptc-3859792",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/delfin-aportara-su-participacion-del-176-en-monte-dei-paschi-a-la-opa-de-intesa-3859791",
+      "title": "Delfin aportará su participación del 17,6% en Monte dei Paschi a la OPA de Intesa",
+      "summary": "Delfin aportará su participación del 17,6% en Monte dei Paschi a la OPA de Intesa...",
+      "source": "Investing (ES)",
+      "time": "12:26 AM",
+      "url": "https://es.investing.com/news/stock-market-news/delfin-aportara-su-participacion-del-176-en-monte-dei-paschi-a-la-opa-de-intesa-3859791",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/akzonobel-cerca-de-vender-su-division-de-pinturas-en-el-sudeste-asiatico-a-nippon-paint-3859788",
+      "title": "AkzoNobel cerca de vender su división de pinturas en el sudeste asiático a Nippon Paint",
+      "summary": "AkzoNobel cerca de vender su división de pinturas en el sudeste asiático a Nippon Paint...",
+      "source": "Investing (ES)",
+      "time": "12:26 AM",
+      "url": "https://es.investing.com/news/stock-market-news/akzonobel-cerca-de-vender-su-division-de-pinturas-en-el-sudeste-asiatico-a-nippon-paint-3859788",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
