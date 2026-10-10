@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-10",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/nuvacore-respaldada-por-sequoia-busca-valoracion-de-2500-millones-de-dolares-3868667",
+      "title": "Nuvacore, respaldada por Sequoia, busca valoración de 2.500 millones de dólares",
+      "summary": "Nuvacore, respaldada por Sequoia, busca valoración de 2.500 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/nuvacore-respaldada-por-sequoia-busca-valoracion-de-2500-millones-de-dolares-3868667",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/hunterbrook-revela-posicion-corta-en-meta-mientras-datos-alternativos-senalan-enfriamiento-de-muse-3868566",
+      "title": "Hunterbrook revela posición corta en Meta mientras datos alternativos señalan enfriamiento de Muse",
+      "summary": "Hunterbrook revela posición corta en Meta mientras datos alternativos señalan enfriamiento de Muse...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/hunterbrook-revela-posicion-corta-en-meta-mientras-datos-alternativos-senalan-enfriamiento-de-muse-3868566",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-agco-93CH-3868557",
+      "title": "¿Por qué caen hoy las acciones de AGCO?",
+      "summary": "¿Por qué caen hoy las acciones de AGCO?...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-agco-93CH-3868557",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cnh-industrial-93CH-3868556",
+      "title": "¿Por qué caen hoy las acciones de CNH Industrial?",
+      "summary": "¿Por qué caen hoy las acciones de CNH Industrial?...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-cnh-industrial-93CH-3868556",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-deere--company-93CH-3868555",
+      "title": "¿Por qué caen hoy las acciones de Deere & Company?",
+      "summary": "¿Por qué caen hoy las acciones de Deere & Company?...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-deere--company-93CH-3868555",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
