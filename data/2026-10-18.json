@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-18",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/putin-propone-una-cumbre-con-trump-y-xi-para-hablar-de-ucrania-93CH-3878275",
+      "title": "Putin propone una cumbre con Trump y Xi para hablar de Ucrania",
+      "summary": "Putin propone una cumbre con Trump y Xi para hablar de Ucrania...",
+      "source": "Investing (ES)",
+      "time": "11:55 PM",
+      "url": "https://es.investing.com/news/stock-market-news/putin-propone-una-cumbre-con-trump-y-xi-para-hablar-de-ucrania-93CH-3878275",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-destina-el-5-de-sus-acciones-a-un-nuevo-fondo-de-beneficio-publico-3878266",
+      "title": "Anthropic destina el 5% de sus acciones a un nuevo fondo de beneficio público",
+      "summary": "Anthropic destina el 5% de sus acciones a un nuevo fondo de beneficio público...",
+      "source": "Investing (ES)",
+      "time": "11:55 PM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-destina-el-5-de-sus-acciones-a-un-nuevo-fondo-de-beneficio-publico-3878266",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/vista-previa-de-resultados-europeos-del-q3-pueden-cumplir-las-altas-expectativas-3878264",
+      "title": "Vista previa de resultados europeos del Q3: ¿Pueden cumplir las altas expectativas?",
+      "summary": "Vista previa de resultados europeos del Q3: ¿Pueden cumplir las altas expectativas?...",
+      "source": "Investing (ES)",
+      "time": "11:55 PM",
+      "url": "https://es.investing.com/news/stock-market-news/vista-previa-de-resultados-europeos-del-q3-pueden-cumplir-las-altas-expectativas-3878264",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/compra-estas-2-acciones-ante-preocupaciones-por-financiacion-de-ia-3878214",
+      "title": "Dos acciones para comprar ante preocupaciones sobre financiación en IA",
+      "summary": "Dos acciones para comprar ante preocupaciones sobre financiación en IA...",
+      "source": "Investing (ES)",
+      "time": "11:55 PM",
+      "url": "https://es.investing.com/news/stock-market-news/compra-estas-2-acciones-ante-preocupaciones-por-financiacion-de-ia-3878214",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
+      "title": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa",
+      "summary": "Nestlé y Unilever enfrentan medidas regulatorias en India por publicidad engañosa...",
+      "source": "Investing (ES)",
+      "time": "11:55 PM",
+      "url": "https://es.investing.com/news/stock-market-news/nestle-y-unilever-enfrentan-medidas-regulatorias-en-india-por-publicidad-enganosa-3878194",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
