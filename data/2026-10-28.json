@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-28",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/td-cowen-mantiene-a-united-y-delta-como-sus-aerolineas-favoritas-3893463",
+      "title": "TD Cowen mantiene a United y Delta como sus aerolíneas favoritas",
+      "summary": "TD Cowen mantiene a United y Delta como sus aerolíneas favoritas...",
+      "source": "Investing (ES)",
+      "time": "12:58 AM",
+      "url": "https://es.investing.com/news/stock-market-news/td-cowen-mantiene-a-united-y-delta-como-sus-aerolineas-favoritas-3893463",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/tensor-auto-y-el-operador-de-taxis-de-munich-planean-una-flota-autonoma-93CH-3893408",
+      "title": "Tensor Auto y el operador de taxis de Múnich planean una flota autónoma",
+      "summary": "Tensor Auto y el operador de taxis de Múnich planean una flota autónoma...",
+      "source": "Investing (ES)",
+      "time": "12:58 AM",
+      "url": "https://es.investing.com/news/stock-market-news/tensor-auto-y-el-operador-de-taxis-de-munich-planean-una-flota-autonoma-93CH-3893408",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-nabors-industries-93CH-3893405",
+      "title": "¿Por qué cae hoy la acción de Nabors Industries?",
+      "summary": "¿Por qué cae hoy la acción de Nabors Industries?...",
+      "source": "Investing (ES)",
+      "time": "12:58 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-nabors-industries-93CH-3893405",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-enphase-energy-93CH-3893395",
+      "title": "¿Por qué se desploma hoy la acción de Enphase Energy?",
+      "summary": "¿Por qué se desploma hoy la acción de Enphase Energy?...",
+      "source": "Investing (ES)",
+      "time": "12:58 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-enphase-energy-93CH-3893395",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-caesars-entertainment-93CH-3893393",
+      "title": "¿Por qué sube hoy la acción de Caesars Entertainment?",
+      "summary": "¿Por qué sube hoy la acción de Caesars Entertainment?...",
+      "source": "Investing (ES)",
+      "time": "12:58 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-caesars-entertainment-93CH-3893393",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
