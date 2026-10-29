@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-29",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bloomberg-y-dos-firmas-de-trading-se-suscriben-al-acceso-prioritario-a-los-posts-de-trump-3896387",
+      "title": "Bloomberg y dos firmas de trading se suscriben al acceso prioritario a los posts de Trump",
+      "summary": "Bloomberg y dos firmas de trading se suscriben al acceso prioritario a los posts de Trump...",
+      "source": "Investing (ES)",
+      "time": "01:33 AM",
+      "url": "https://es.investing.com/news/stock-market-news/bloomberg-y-dos-firmas-de-trading-se-suscriben-al-acceso-prioritario-a-los-posts-de-trump-3896387",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-caen-por-los-debiles-resultados-de-alphabet-3896383",
+      "title": "Los futuros de las acciones caen por los débiles resultados de Alphabet",
+      "summary": "Los futuros de las acciones caen por los débiles resultados de Alphabet...",
+      "source": "Investing (ES)",
+      "time": "01:33 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-caen-por-los-debiles-resultados-de-alphabet-3896383",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-como-entender-los-datos-antes-de-la-historica-salida-a-bolsa-3896343",
+      "title": "OPI de Anthropic: ¿Cómo entender los datos antes de la histórica salida a Bolsa?",
+      "summary": "OPI de Anthropic: ¿Cómo entender los datos antes de la histórica salida a Bolsa?...",
+      "source": "Investing (ES)",
+      "time": "01:33 AM",
+      "url": "https://es.investing.com/news/stock-market-news/opi-de-anthropic-como-entender-los-datos-antes-de-la-historica-salida-a-bolsa-3896343",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/guggenheim-designa-a-lb-pharmaceuticals-como-idea-de-inversion-clave-3896319",
+      "title": "Guggenheim designa a LB Pharmaceuticals como idea de inversión clave",
+      "summary": "Guggenheim designa a LB Pharmaceuticals como idea de inversión clave...",
+      "source": "Investing (ES)",
+      "time": "01:33 AM",
+      "url": "https://es.investing.com/news/stock-market-news/guggenheim-designa-a-lb-pharmaceuticals-como-idea-de-inversion-clave-3896319",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lumentum-93CH-3896312",
+      "title": "¿Por qué se dispara hoy la acción de Lumentum?",
+      "summary": "¿Por qué se dispara hoy la acción de Lumentum?...",
+      "source": "Investing (ES)",
+      "time": "01:33 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lumentum-93CH-3896312",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
