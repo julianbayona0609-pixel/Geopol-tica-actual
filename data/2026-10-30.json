@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-30",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-representa-mas-de-un-tercio-de-los-ingresos-de-spacex-en-el-tercer-trimestre-3899620",
+      "title": "Anthropic representa más de un tercio de los ingresos de SpaceX en el tercer trimestre",
+      "summary": "Anthropic representa más de un tercio de los ingresos de SpaceX en el tercer trimestre...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-representa-mas-de-un-tercio-de-los-ingresos-de-spacex-en-el-tercer-trimestre-3899620",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-caen-las-acciones-de-spacex-en-el-mercado-fuera-de-hora-93CH-3899619",
+      "title": "¿Por qué caen las acciones de SpaceX en el mercado fuera de hora?",
+      "summary": "¿Por qué caen las acciones de SpaceX en el mercado fuera de hora?...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-caen-las-acciones-de-spacex-en-el-mercado-fuera-de-hora-93CH-3899619",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-nasdaq-caen-un-2-tras-los-decepcionantes-resultados-de-amazon-e-intel-3899617",
+      "title": "Los futuros de Nasdaq caen un 2% tras los decepcionantes resultados de Amazon e Intel",
+      "summary": "Los futuros de Nasdaq caen un 2% tras los decepcionantes resultados de Amazon e Intel...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-nasdaq-caen-un-2-tras-los-decepcionantes-resultados-de-amazon-e-intel-3899617",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/bambusa-therapeutics-fija-el-precio-de-su-opv-en-16-dolares-por-accion-en-el-nasdaq-432SI-3899611",
+      "title": "Bambusa Therapeutics fija el precio de su OPV en 16 dólares por acción en el Nasdaq",
+      "summary": "Bambusa Therapeutics fija el precio de su OPV en 16 dólares por acción en el Nasdaq...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/bambusa-therapeutics-fija-el-precio-de-su-opv-en-16-dolares-por-accion-en-el-nasdaq-432SI-3899611",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-bitcoin-hoy-93CH-3899610",
+      "title": "¿Por qué cae Bitcoin hoy?",
+      "summary": "¿Por qué cae Bitcoin hoy?...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-bitcoin-hoy-93CH-3899610",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
