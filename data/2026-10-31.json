@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-31",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/es-el-mercado-demasiado-bajista-con-el-aluminio-3902558",
+      "title": "¿Es el mercado demasiado bajista con el aluminio?",
+      "summary": "¿Es el mercado demasiado bajista con el aluminio?...",
+      "source": "Investing (ES)",
+      "time": "01:25 AM",
+      "url": "https://es.investing.com/news/stock-market-news/es-el-mercado-demasiado-bajista-con-el-aluminio-3902558",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/mizuho-apuesta-por-estas-acciones-de-restaurantes-de-eeuu-antes-de-resultados-3902521",
+      "title": "Mizuho apuesta por estas acciones de restaurantes de EE.UU. antes de resultados",
+      "summary": "Mizuho apuesta por estas acciones de restaurantes de EE.UU. antes de resultados...",
+      "source": "Investing (ES)",
+      "time": "01:25 AM",
+      "url": "https://es.investing.com/news/stock-market-news/mizuho-apuesta-por-estas-acciones-de-restaurantes-de-eeuu-antes-de-resultados-3902521",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/accionistas-de-raizen-aprueban-plan-de-reestructuracion-extrajudicial-93CH-3902508",
+      "title": "Accionistas de Raizen aprueban plan de reestructuración extrajudicial",
+      "summary": "Accionistas de Raizen aprueban plan de reestructuración extrajudicial...",
+      "source": "Investing (ES)",
+      "time": "01:25 AM",
+      "url": "https://es.investing.com/news/stock-market-news/accionistas-de-raizen-aprueban-plan-de-reestructuracion-extrajudicial-93CH-3902508",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-fda-aprueba-el-primer-producto-de-inovio-pharmaceuticals-93CH-3902505",
+      "title": "La FDA aprueba el primer producto de Inovio Pharmaceuticals",
+      "summary": "La FDA aprueba el primer producto de Inovio Pharmaceuticals...",
+      "source": "Investing (ES)",
+      "time": "01:25 AM",
+      "url": "https://es.investing.com/news/stock-market-news/la-fda-aprueba-el-primer-producto-de-inovio-pharmaceuticals-93CH-3902505",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-inovio-pharmaceuticals-93CH-3902502",
+      "title": "¿Por qué se dispara hoy la acción de Inovio Pharmaceuticals?",
+      "summary": "¿Por qué se dispara hoy la acción de Inovio Pharmaceuticals?...",
+      "source": "Investing (ES)",
+      "time": "01:25 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-inovio-pharmaceuticals-93CH-3902502",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
