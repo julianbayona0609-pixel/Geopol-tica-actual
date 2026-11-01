@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-01",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
+      "title": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein",
+      "summary": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein...",
+      "source": "Investing (ES)",
+      "time": "12:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-venta-masiva-de-bonos-franceses-una-advertencia-para-los-gobiernos-mundiales-3902649",
+      "title": "La venta masiva de bonos franceses, una advertencia para los gobiernos mundiales",
+      "summary": "La venta masiva de bonos franceses, una advertencia para los gobiernos mundiales...",
+      "source": "Investing (ES)",
+      "time": "12:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/la-venta-masiva-de-bonos-franceses-una-advertencia-para-los-gobiernos-mundiales-3902649",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/meta-desarrolla-un-robot-humanoide-con-la-china-fourier-3902646",
+      "title": "Meta desarrolla un robot humanoide con la china Fourier",
+      "summary": "Meta desarrolla un robot humanoide con la china Fourier...",
+      "source": "Investing (ES)",
+      "time": "12:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/meta-desarrolla-un-robot-humanoide-con-la-china-fourier-3902646",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/citi-explica-que-significan-realmente-halcon-y-paloma-en-el-bce-3902639",
+      "title": "Citi explica qué significan realmente \"halcón\" y \"paloma\" en el BCE",
+      "summary": "Citi explica qué significan realmente \"halcón\" y \"paloma\" en el BCE...",
+      "source": "Investing (ES)",
+      "time": "12:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/citi-explica-que-significan-realmente-halcon-y-paloma-en-el-bce-3902639",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/rusia-extiende-la-prohibicion-de-exportacion-de-diesel-hasta-enero-3902636",
+      "title": "Rusia extiende la prohibición de exportación de diésel hasta enero",
+      "summary": "Rusia extiende la prohibición de exportación de diésel hasta enero...",
+      "source": "Investing (ES)",
+      "time": "12:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/rusia-extiende-la-prohibicion-de-exportacion-de-diesel-hasta-enero-3902636",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
