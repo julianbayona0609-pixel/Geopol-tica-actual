@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-02",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-un-octubre-negativo-3902755",
+      "title": "Los futuros de las acciones de EE.UU. suben tras un octubre negativo",
+      "summary": "Los futuros de las acciones de EE.UU. suben tras un octubre negativo...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-tras-un-octubre-negativo-3902755",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
+      "title": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible",
+      "summary": "Tras un rendimiento de +193%: la nueva lista de selecciones IA para noviembre ya está disponible...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/tras-un-rendimiento-de-193-la-nueva-lista-de-selecciones-ia-para-noviembre-ya-esta-disponible-3900816",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/quienes-son-los-grandes-beneficiados-del-auge-exportador-de-ia-en-asia-3902683",
+      "title": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
+      "summary": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/quienes-son-los-grandes-beneficiados-del-auge-exportador-de-ia-en-asia-3902683",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/inversores-en-ia-buscan-protegerse-ante-una-posible-caida-del-mercado-tecnologico-3902667",
+      "title": "Inversores en IA buscan protegerse ante una posible caída del mercado tecnológico",
+      "summary": "Inversores en IA buscan protegerse ante una posible caída del mercado tecnológico...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/inversores-en-ia-buscan-protegerse-ante-una-posible-caida-del-mercado-tecnologico-3902667",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
+      "title": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein",
+      "summary": "Principales conclusiones de la encuesta global anual de ropa deportiva de Bernstein...",
+      "source": "Investing (ES)",
+      "time": "01:17 AM",
+      "url": "https://es.investing.com/news/stock-market-news/conclusiones-clave-de-la-encuesta-anual-de-bernstein-sobre-ropa-deportiva-3902656",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
