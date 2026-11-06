@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-06",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-el-desplome-de-la-ia-en-wall-st-3914793",
+      "title": "Los futuros de las acciones suben tras el desplome de la IA en Wall St",
+      "summary": "Los futuros de las acciones suben tras el desplome de la IA en Wall St...",
+      "source": "Investing (ES)",
+      "time": "01:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-el-desplome-de-la-ia-en-wall-st-3914793",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-kospi-de-corea-del-sur-detiene-operaciones-tras-desplomarse-un-8-por-perdidas-en-ia-3914780",
+      "title": "El KOSPI de Corea del Sur detiene operaciones tras desplomarse un 8% por pérdidas en IA",
+      "summary": "El KOSPI de Corea del Sur detiene operaciones tras desplomarse un 8% por pérdidas en IA...",
+      "source": "Investing (ES)",
+      "time": "01:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/el-kospi-de-corea-del-sur-detiene-operaciones-tras-desplomarse-un-8-por-perdidas-en-ia-3914780",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-unity-suben-por-interes-de-compra-de-silver-lake-y-pif-3914755",
+      "title": "Las acciones de Unity suben por interés de compra de Silver Lake y PIF",
+      "summary": "Las acciones de Unity suben por interés de compra de Silver Lake y PIF...",
+      "source": "Investing (ES)",
+      "time": "01:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-unity-suben-por-interes-de-compra-de-silver-lake-y-pif-3914755",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-unity-software-se-disparan-en-el-mercado-fuera-de-hora-93CH-3914729",
+      "title": "¿Por qué las acciones de Unity Software se disparan en el mercado fuera de hora?",
+      "summary": "¿Por qué las acciones de Unity Software se disparan en el mercado fuera de hora?...",
+      "source": "Investing (ES)",
+      "time": "01:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-unity-software-se-disparan-en-el-mercado-fuera-de-hora-93CH-3914729",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-enfrenta-resistencia-a-su-valoracion-de-15-billones-de-dolares-en-su-opv-3914715",
+      "title": "Anthropic enfrenta resistencia a su valoración de 1,5 billones de dólares en su OPV",
+      "summary": "Anthropic enfrenta resistencia a su valoración de 1,5 billones de dólares en su OPV...",
+      "source": "Investing (ES)",
+      "time": "01:59 AM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-enfrenta-resistencia-a-su-valoracion-de-15-billones-de-dolares-en-su-opv-3914715",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
