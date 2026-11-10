@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-10",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/trump-dice-que-el-fbi-investiga-al-director-ejecutivo-de-nvidia-huang-por-escandalo-con-china-3920306",
+      "title": "Trump dice que el FBI investiga al director ejecutivo de Nvidia, Huang, por escándalo con China",
+      "summary": "Trump dice que el FBI investiga al director ejecutivo de Nvidia, Huang, por escándalo con China...",
+      "source": "Investing (ES)",
+      "time": "03:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/trump-dice-que-el-fbi-investiga-al-director-ejecutivo-de-nvidia-huang-por-escandalo-con-china-3920306",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-monadelphous-se-disparan-hoy-93CH-3920287",
+      "title": "¿Por qué las acciones de Monadelphous se disparan hoy?",
+      "summary": "¿Por qué las acciones de Monadelphous se disparan hoy?...",
+      "source": "Investing (ES)",
+      "time": "03:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-monadelphous-se-disparan-hoy-93CH-3920287",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/anthropic-retira-detalles-de-su-opv-tras-enviarlos-a-banqueros-3920285",
+      "title": "Anthropic retira los detalles de su OPV tras enviarlos a banqueros",
+      "summary": "Anthropic retira los detalles de su OPV tras enviarlos a banqueros...",
+      "source": "Investing (ES)",
+      "time": "03:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/anthropic-retira-detalles-de-su-opv-tras-enviarlos-a-banqueros-3920285",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-wuxi-apptec-suben-tras-ser-retirada-de-lista-militar-de-eeuu-3920284",
+      "title": "Las acciones de WuXi AppTec suben tras ser retirada de lista militar de EE.UU.",
+      "summary": "Las acciones de WuXi AppTec suben tras ser retirada de lista militar de EE.UU....",
+      "source": "Investing (ES)",
+      "time": "03:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-wuxi-apptec-suben-tras-ser-retirada-de-lista-militar-de-eeuu-3920284",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-el-par-dolar-neozelandesdolar-estadounidense-93CH-3920274",
+      "title": "¿Por qué sube hoy el par dólar neozelandés/dólar estadounidense?",
+      "summary": "¿Por qué sube hoy el par dólar neozelandés/dólar estadounidense?...",
+      "source": "Investing (ES)",
+      "time": "03:57 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-el-par-dolar-neozelandesdolar-estadounidense-93CH-3920274",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
