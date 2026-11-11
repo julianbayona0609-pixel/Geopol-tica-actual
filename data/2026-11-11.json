@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-11",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/que-podria-impulsar-al-nifty-de-india-bofa-senala-los-riesgos-clave-3922620",
+      "title": "¿Qué podría impulsar al Nifty de India? BofA señala los riesgos clave",
+      "summary": "¿Qué podría impulsar al Nifty de India? BofA señala los riesgos clave...",
+      "source": "Investing (ES)",
+      "time": "01:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/que-podria-impulsar-al-nifty-de-india-bofa-senala-los-riesgos-clave-3922620",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-softbank-caen-tras-perdidas-trimestrales-de-7100-millones-de-dolares-3922607",
+      "title": "Las acciones de SoftBank caen tras pérdidas trimestrales de 7.100 millones de dólares",
+      "summary": "Las acciones de SoftBank caen tras pérdidas trimestrales de 7.100 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "01:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-softbank-caen-tras-perdidas-trimestrales-de-7100-millones-de-dolares-3922607",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-caida-por-ipc-y-perdidas-de-nvidia-3922595",
+      "title": "Los futuros de las acciones suben tras caída por IPC y pérdidas de Nvidia",
+      "summary": "Los futuros de las acciones suben tras caída por IPC y pérdidas de Nvidia...",
+      "source": "Investing (ES)",
+      "time": "01:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-caida-por-ipc-y-perdidas-de-nvidia-3922595",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/petrobras-beneficio-del-tercer-trimestre-sube-34-pero-decepciona-93CH-3922571",
+      "title": "Petrobras: beneficio del tercer trimestre sube 34% pero decepciona",
+      "summary": "Petrobras: beneficio del tercer trimestre sube 34% pero decepciona...",
+      "source": "Investing (ES)",
+      "time": "01:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/petrobras-beneficio-del-tercer-trimestre-sube-34-pero-decepciona-93CH-3922571",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/american-barrick-presenta-su-opv-en-nyse-como-filial-controlada-de-barrick-mining-3922521",
+      "title": "American Barrick presenta su OPV en NYSE como filial controlada de Barrick Mining",
+      "summary": "American Barrick presenta su OPV en NYSE como filial controlada de Barrick Mining...",
+      "source": "Investing (ES)",
+      "time": "01:42 AM",
+      "url": "https://es.investing.com/news/stock-market-news/american-barrick-presenta-su-opv-en-nyse-como-filial-controlada-de-barrick-mining-3922521",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
