@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-15",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/duffy-investiga-a-l3harris-por-el-fallo-de-la-faa-que-paralizo-vuelos-en-eeuu-3928690",
+      "title": "Brookfield y CPPIB avanzan en la venta de Uniper mientras Alemania reduce su participación",
+      "summary": "Brookfield y CPPIB avanzan en la venta de Uniper mientras Alemania reduce su participación...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/duffy-investiga-a-l3harris-por-el-fallo-de-la-faa-que-paralizo-vuelos-en-eeuu-3928690",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-en-eeuu-citi-analiza-las-implicaciones-para-la-economia-y-los-mercados-3928687",
+      "title": "Elecciones de mitad de mandato en EE.UU.: Citi analiza las implicaciones para la economía y los mercados",
+      "summary": "Elecciones de mitad de mandato en EE.UU.: Citi analiza las implicaciones para la economía y los mercados...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/elecciones-de-mitad-de-mandato-en-eeuu-citi-analiza-las-implicaciones-para-la-economia-y-los-mercados-3928687",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/italia-multa-a-meta-con-805-millones-de-euros-por-acceso-a-fotos-de-usuarios-android-3928670",
+      "title": "Italia multa a Meta con 805 millones de euros por acceso a fotos de usuarios Android",
+      "summary": "Italia multa a Meta con 805 millones de euros por acceso a fotos de usuarios Android...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/italia-multa-a-meta-con-805-millones-de-euros-por-acceso-a-fotos-de-usuarios-android-3928670",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/msc-cerca-de-un-acuerdo-para-adquirir-el-80-del-astillero-aleman-meyer-werft-3928667",
+      "title": "MSC cerca de un acuerdo para adquirir el 80% del astillero alemán Meyer Werft",
+      "summary": "MSC cerca de un acuerdo para adquirir el 80% del astillero alemán Meyer Werft...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/msc-cerca-de-un-acuerdo-para-adquirir-el-80-del-astillero-aleman-meyer-werft-3928667",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/la-victoria-democrata-en-las-elecciones-de-medio-mandato-nada-mala-para-spacex-3928663",
+      "title": "La victoria demócrata en las elecciones de medio mandato, \"nada mala\" para SpaceX",
+      "summary": "La victoria demócrata en las elecciones de medio mandato, \"nada mala\" para SpaceX...",
+      "source": "Investing (ES)",
+      "time": "01:31 AM",
+      "url": "https://es.investing.com/news/stock-market-news/la-victoria-democrata-en-las-elecciones-de-medio-mandato-nada-mala-para-spacex-3928663",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
