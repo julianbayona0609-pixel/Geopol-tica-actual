@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-16",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/jio-platforms-inicia-conversaciones-con-empresas-indias-para-lanzar-satelites-93CH-3928924",
+      "title": "Jio Platforms inicia conversaciones con empresas indias para lanzar satélites",
+      "summary": "Jio Platforms inicia conversaciones con empresas indias para lanzar satélites...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/jio-platforms-inicia-conversaciones-con-empresas-indias-para-lanzar-satelites-93CH-3928924",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-primer-ministro-burnham-pedira-un-reinicio-de-la-relacion-entre-reino-unido-y-la-ue-93CH-3928923",
+      "title": "El primer ministro Burnham pedirá un reinicio de la relación entre Reino Unido y la UE",
+      "summary": "El primer ministro Burnham pedirá un reinicio de la relación entre Reino Unido y la UE...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/el-primer-ministro-burnham-pedira-un-reinicio-de-la-relacion-entre-reino-unido-y-la-ue-93CH-3928923",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/jj-negocia-la-compra-de-la-biotecnologica-ollin-por-3400-millones-de-dolares-3928920",
+      "title": "J&J negocia la compra de la biotecnológica Ollin por 3.400 millones de dólares",
+      "summary": "J&J negocia la compra de la biotecnológica Ollin por 3.400 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/jj-negocia-la-compra-de-la-biotecnologica-ollin-por-3400-millones-de-dolares-3928920",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/idp-education-rechaza-por-tercera-vez-la-oferta-de-blackstone-por-5645-millones-de-dolares-3928918",
+      "title": "IDP Education rechaza por tercera vez la oferta de Blackstone por 564,5 millones de dólares",
+      "summary": "IDP Education rechaza por tercera vez la oferta de Blackstone por 564,5 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/idp-education-rechaza-por-tercera-vez-la-oferta-de-blackstone-por-5645-millones-de-dolares-3928918",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/diamondback-energy-cerca-de-cerrar-un-acuerdo-de-5000-millones-con-double-eagle-3928899",
+      "title": "Diamondback Energy cerca de cerrar un acuerdo de 5.000 millones con Double Eagle",
+      "summary": "Diamondback Energy cerca de cerrar un acuerdo de 5.000 millones con Double Eagle...",
+      "source": "Investing (ES)",
+      "time": "01:34 AM",
+      "url": "https://es.investing.com/news/stock-market-news/diamondback-energy-cerca-de-cerrar-un-acuerdo-de-5000-millones-con-double-eagle-3928899",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
