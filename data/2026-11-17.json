@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-17",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advantest-corp-93CH-3931159",
+      "title": "¿Por qué cae hoy la acción de Advantest Corp.?",
+      "summary": "¿Por qué cae hoy la acción de Advantest Corp.?...",
+      "source": "Investing (ES)",
+      "time": "04:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advantest-corp-93CH-3931159",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-por-el-endurecimiento-de-eeuu-en-chips-de-ia-3931158",
+      "title": "Las bolsas asiáticas caen por el endurecimiento de EE.UU. en chips de IA",
+      "summary": "Las bolsas asiáticas caen por el endurecimiento de EE.UU. en chips de IA...",
+      "source": "Investing (ES)",
+      "time": "04:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-por-el-endurecimiento-de-eeuu-en-chips-de-ia-3931158",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/novartis-obtiene-la-aprobacion-de-la-fda-para-cosentyx-en-polimialgia-reumatica-3931155",
+      "title": "Novartis obtiene la aprobación de la FDA para Cosentyx en polimialgia reumática",
+      "summary": "Novartis obtiene la aprobación de la FDA para Cosentyx en polimialgia reumática...",
+      "source": "Investing (ES)",
+      "time": "04:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/novartis-obtiene-la-aprobacion-de-la-fda-para-cosentyx-en-polimialgia-reumatica-3931155",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-xpeng-inc-en-hong-kong-93CH-3931151",
+      "title": "¿Por qué sube hoy la acción de Xpeng Inc en Hong Kong?",
+      "summary": "¿Por qué sube hoy la acción de Xpeng Inc en Hong Kong?...",
+      "source": "Investing (ES)",
+      "time": "04:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-xpeng-inc-en-hong-kong-93CH-3931151",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-baidu-inc-en-hong-kong-93CH-3931150",
+      "title": "¿Por qué cae hoy la acción de Baidu Inc en Hong Kong?",
+      "summary": "¿Por qué cae hoy la acción de Baidu Inc en Hong Kong?...",
+      "source": "Investing (ES)",
+      "time": "04:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-baidu-inc-en-hong-kong-93CH-3931150",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
