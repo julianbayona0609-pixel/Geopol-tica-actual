@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-18",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-tecnologicas-asiaticas-muestran-resultados-mixtos-tras-los-resultados-de-nvidia-3933267",
+      "title": "Las acciones tecnológicas asiáticas muestran resultados mixtos tras los resultados de Nvidia",
+      "summary": "Las acciones tecnológicas asiáticas muestran resultados mixtos tras los resultados de Nvidia...",
+      "source": "Investing (ES)",
+      "time": "03:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-tecnologicas-asiaticas-muestran-resultados-mixtos-tras-los-resultados-de-nvidia-3933267",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-exjefe-de-ventas-de-nvidia-tenia-vinculos-con-clientes-en-el-escandalo-de-chips-3933259",
+      "title": "El exjefe de ventas de Nvidia tenía vínculos con clientes en el escándalo de chips",
+      "summary": "El exjefe de ventas de Nvidia tenía vínculos con clientes en el escándalo de chips...",
+      "source": "Investing (ES)",
+      "time": "03:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/el-exjefe-de-ventas-de-nvidia-tenia-vinculos-con-clientes-en-el-escandalo-de-chips-3933259",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/48-31-24-que-acciones-elegidas-por-ia-suben-mientras-la-tecnologia-flaquea-3933250",
+      "title": "+48%, +31%, +24%: ¿Qué acciones elegidas por IA suben mientras la tecnología flaquea?",
+      "summary": "+48%, +31%, +24%: ¿Qué acciones elegidas por IA suben mientras la tecnología flaquea?...",
+      "source": "Investing (ES)",
+      "time": "03:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/48-31-24-que-acciones-elegidas-por-ia-suben-mientras-la-tecnologia-flaquea-3933250",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/salesforce-inicia-una-nueva-ronda-de-despidos-segun-business-insider-3933235",
+      "title": "Salesforce inicia una nueva ronda de despidos, según Business Insider",
+      "summary": "Salesforce inicia una nueva ronda de despidos, según Business Insider...",
+      "source": "Investing (ES)",
+      "time": "03:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/salesforce-inicia-una-nueva-ronda-de-despidos-segun-business-insider-3933235",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/reliance-busca-socios-fabricantes-para-su-red-de-1600-satelites-3933233",
+      "title": "Reliance busca socios fabricantes para su red de 1.600 satélites",
+      "summary": "Reliance busca socios fabricantes para su red de 1.600 satélites...",
+      "source": "Investing (ES)",
+      "time": "03:19 AM",
+      "url": "https://es.investing.com/news/stock-market-news/reliance-busca-socios-fabricantes-para-su-red-de-1600-satelites-3933233",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
