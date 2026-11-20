@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-20",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/82-desde-la-entrada-una-empresa-de-software-en-la-nube-elegida-por-nuestros-modelos-sigue-subiendo-3937273",
+      "title": "+82% desde la entrada: una empresa de software en la nube elegida por nuestros modelos sigue subiendo",
+      "summary": "+82% desde la entrada: una empresa de software en la nube elegida por nuestros modelos sigue subiendo...",
+      "source": "Investing (ES)",
+      "time": "02:50 AM",
+      "url": "https://es.investing.com/news/stock-market-news/82-desde-la-entrada-una-empresa-de-software-en-la-nube-elegida-por-nuestros-modelos-sigue-subiendo-3937273",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-caen-tras-el-debut-de-anthropic-en-bolsa-3937247",
+      "title": "Los futuros de Wall Street caen tras el debut de Anthropic en bolsa",
+      "summary": "Los futuros de Wall Street caen tras el debut de Anthropic en bolsa...",
+      "source": "Investing (ES)",
+      "time": "02:50 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-wall-street-caen-tras-el-debut-de-anthropic-en-bolsa-3937247",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/citigroup-inc-registro-mal-operaciones-en-europa-y-subestimo-el-riesgo-en-35000-millones-de-dolares-93CH-3937233",
+      "title": "Citigroup Inc registró mal operaciones en Europa y subestimó el riesgo en 35.000 millones de dólares",
+      "summary": "Citigroup Inc registró mal operaciones en Europa y subestimó el riesgo en 35.000 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "02:50 AM",
+      "url": "https://es.investing.com/news/stock-market-news/citigroup-inc-registro-mal-operaciones-en-europa-y-subestimo-el-riesgo-en-35000-millones-de-dolares-93CH-3937233",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-director-de-ciberseguridad-de-trump-sean-cairncross-abandona-su-cargo-93CH-3937231",
+      "title": "El director de ciberseguridad de Trump, Sean Cairncross, abandona su cargo",
+      "summary": "El director de ciberseguridad de Trump, Sean Cairncross, abandona su cargo...",
+      "source": "Investing (ES)",
+      "time": "02:50 AM",
+      "url": "https://es.investing.com/news/stock-market-news/el-director-de-ciberseguridad-de-trump-sean-cairncross-abandona-su-cargo-93CH-3937231",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/el-senado-republicano-rechaza-legislacion-para-poner-fin-a-la-guerra-en-iran-93CH-3937226",
+      "title": "El Senado republicano rechaza legislación para poner fin a la guerra en Irán",
+      "summary": "El Senado republicano rechaza legislación para poner fin a la guerra en Irán...",
+      "source": "Investing (ES)",
+      "time": "02:50 AM",
+      "url": "https://es.investing.com/news/stock-market-news/el-senado-republicano-rechaza-legislacion-para-poner-fin-a-la-guerra-en-iran-93CH-3937226",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
