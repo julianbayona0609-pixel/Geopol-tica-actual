@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-22",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-huelgas-industriales-en-alemania-se-amplian-con-23000-trabajadores-convocados-por-ig-metall-3939143",
+      "title": "Las huelgas industriales en Alemania se amplían con 23.000 trabajadores convocados por IG Metall",
+      "summary": "Las huelgas industriales en Alemania se amplían con 23.000 trabajadores convocados por IG Metall...",
+      "source": "Investing (ES)",
+      "time": "01:54 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-huelgas-industriales-en-alemania-se-amplian-con-23000-trabajadores-convocados-por-ig-metall-3939143",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
+      "title": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica",
+      "summary": "Las acciones de IA de China pierden 1,7 billones de dólares en la caída tecnológica...",
+      "source": "Investing (ES)",
+      "time": "01:54 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-ia-de-china-pierden-17-billones-de-dolares-en-la-caida-tecnologica-3939137",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
+      "title": "Qué esperar de las elecciones anticipadas en España",
+      "summary": "Qué esperar de las elecciones anticipadas en España...",
+      "source": "Investing (ES)",
+      "time": "01:54 AM",
+      "url": "https://es.investing.com/news/stock-market-news/que-esperar-de-las-elecciones-anticipadas-en-espana-3939125",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/quien-gana-realmente-con-la-inteligencia-artificial-3939105",
+      "title": "¿Quién gana realmente con la inteligencia artificial?",
+      "summary": "¿Quién gana realmente con la inteligencia artificial?...",
+      "source": "Investing (ES)",
+      "time": "01:54 AM",
+      "url": "https://es.investing.com/news/stock-market-news/quien-gana-realmente-con-la-inteligencia-artificial-3939105",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
+      "title": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T",
+      "summary": "UBS evalúa el impacto del cierre aéreo en EE.UU. sobre las aerolíneas en el 4T...",
+      "source": "Investing (ES)",
+      "time": "01:54 AM",
+      "url": "https://es.investing.com/news/stock-market-news/ubs-evalua-el-impacto-del-cierre-aereo-en-eeuu-sobre-las-aerolineas-en-el-4t-3939052",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
