@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-25",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/68-52-34-los-ganadores-de-mediana-capitalizacion-de-eeuu-estan-en-nuestra-lista-de-propicks-ia-3942913",
+      "title": "+68%, +52%, +34%: los ganadores de mediana capitalización de EE.UU. están en nuestra lista de ProPicks IA",
+      "summary": "+68%, +52%, +34%: los ganadores de mediana capitalización de EE.UU. están en nuestra lista de ProPicks IA...",
+      "source": "Investing (ES)",
+      "time": "04:46 AM",
+      "url": "https://es.investing.com/news/stock-market-news/68-52-34-los-ganadores-de-mediana-capitalizacion-de-eeuu-estan-en-nuestra-lista-de-propicks-ia-3942913",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-acciones-de-xiaomi-suben-mas-de-un-8-gracias-a-las-ventas-de-moviles-premium-3942910",
+      "title": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+      "summary": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium...",
+      "source": "Investing (ES)",
+      "time": "04:46 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-xiaomi-suben-mas-de-un-8-gracias-a-las-ventas-de-moviles-premium-3942910",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/consorcio-liderado-por-blackrock-estudia-reducir-oferta-por-stack-infrastructure-asia-3942908",
+      "title": "Consorcio liderado por BlackRock estudia reducir oferta por Stack Infrastructure Asia",
+      "summary": "Consorcio liderado por BlackRock estudia reducir oferta por Stack Infrastructure Asia...",
+      "source": "Investing (ES)",
+      "time": "04:46 AM",
+      "url": "https://es.investing.com/news/stock-market-news/consorcio-liderado-por-blackrock-estudia-reducir-oferta-por-stack-infrastructure-asia-3942908",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/le-monde-detalla-una-red-de-desvio-de-chips-de-nvidia-en-el-sudeste-asiatico-3942900",
+      "title": "Le Monde detalla una red de desvío de chips de Nvidia en el Sudeste Asiático",
+      "summary": "Le Monde detalla una red de desvío de chips de Nvidia en el Sudeste Asiático...",
+      "source": "Investing (ES)",
+      "time": "04:46 AM",
+      "url": "https://es.investing.com/news/stock-market-news/le-monde-detalla-una-red-de-desvio-de-chips-de-nvidia-en-el-sudeste-asiatico-3942900",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/alibaba-estudia-emitir-bonos-en-el-extranjero-en-2025-para-financiar-su-ia-3942899",
+      "title": "Alibaba estudia emitir bonos en el extranjero en 2025 para financiar su IA",
+      "summary": "Alibaba estudia emitir bonos en el extranjero en 2025 para financiar su IA...",
+      "source": "Investing (ES)",
+      "time": "04:46 AM",
+      "url": "https://es.investing.com/news/stock-market-news/alibaba-estudia-emitir-bonos-en-el-extranjero-en-2025-para-financiar-su-ia-3942899",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
