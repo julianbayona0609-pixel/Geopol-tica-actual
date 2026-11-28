@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-28",
+  "conclusion": "**Error al conectar con la IA.**\n\nHubo un problema al generar el análisis del mercado para el día de hoy. El error interno es: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "news": [
+    {
+      "id": "https://es.investing.com/news/stock-market-news/acciones-de-ia-repuntan-aprovecha-el-proximo-movimiento-con-un-60-de-descuento-3945618",
+      "title": "Acciones de IA repuntan: aprovecha el próximo movimiento con un 60% de descuento",
+      "summary": "Acciones de IA repuntan: aprovecha el próximo movimiento con un 60% de descuento...",
+      "source": "Investing (ES)",
+      "time": "03:43 AM",
+      "url": "https://es.investing.com/news/stock-market-news/acciones-de-ia-repuntan-aprovecha-el-proximo-movimiento-con-un-60-de-descuento-3945618",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/los-ahorros-increibles-estan-terminando-investingpro-por-menos-de-190-dolares-a-la-semana-3945615",
+      "title": "¡Los ahorros increíbles están terminando! InvestingPro por menos de 1,90 dólares a la semana",
+      "summary": "¡Los ahorros increíbles están terminando! InvestingPro por menos de 1,90 dólares a la semana...",
+      "source": "Investing (ES)",
+      "time": "03:43 AM",
+      "url": "https://es.investing.com/news/stock-market-news/los-ahorros-increibles-estan-terminando-investingpro-por-menos-de-190-dolares-a-la-semana-3945615",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/funcionarios-del-bce-senalan-nuevas-subidas-de-tipos-ante-la-elevada-inflacion-3945610",
+      "title": "Funcionarios del BCE señalan nuevas subidas de tipos ante la elevada inflación",
+      "summary": "Funcionarios del BCE señalan nuevas subidas de tipos ante la elevada inflación...",
+      "source": "Investing (ES)",
+      "time": "03:43 AM",
+      "url": "https://es.investing.com/news/stock-market-news/funcionarios-del-bce-senalan-nuevas-subidas-de-tipos-ante-la-elevada-inflacion-3945610",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/las-ventas-online-del-black-friday-en-eeuu-superaran-los-13000-millones-de-dolares-3945600",
+      "title": "Las ventas online del Black Friday en EE.UU. superarán los 13.000 millones de dólares",
+      "summary": "Las ventas online del Black Friday en EE.UU. superarán los 13.000 millones de dólares...",
+      "source": "Investing (ES)",
+      "time": "03:43 AM",
+      "url": "https://es.investing.com/news/stock-market-news/las-ventas-online-del-black-friday-en-eeuu-superaran-los-13000-millones-de-dolares-3945600",
+      "category": "Mercados",
+      "impact": "neutral"
+    },
+    {
+      "id": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595",
+      "title": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector pese a caída del 5%",
+      "summary": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector pese a caída del 5%...",
+      "source": "Investing (ES)",
+      "time": "03:43 AM",
+      "url": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595",
+      "category": "Mercados",
+      "impact": "neutral"
+    }
+  ]
+}
